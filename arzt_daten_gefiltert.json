@@ -1,2327 +1,5 @@
 [
   {
-    "name": "Sarah von Meister",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 64,
-    "adresse": {
-      "strasse": "Marktstraße",
-      "hausnummer": "10",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Verhaltenstherapie für Kinder und Jugendliche in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Nino Chelidze",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 81,
-    "adresse": {
-      "strasse": "Marktstraße",
-      "hausnummer": "11",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Irmtraud Kiefer",
-    "telefon": "0611 3757572",
-    "handy": "",
-    "fax": "0611 376319",
-    "geschlecht": "F",
-    "entfernung_meter": 81,
-    "adresse": {
-      "strasse": "Marktstraße",
-      "hausnummer": "11",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Thomas Eikenbusch",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 81,
-    "adresse": {
-      "strasse": "Marktstraße",
-      "hausnummer": "11",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Dr. Maria Meesmann",
-    "telefon": "0611 372758",
-    "handy": "",
-    "fax": "0611 376319",
-    "geschlecht": "F",
-    "entfernung_meter": 81,
-    "adresse": {
-      "strasse": "Marktstraße",
-      "hausnummer": "11",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "donnerstag": "09:30-12:30"
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Anne-Theresa Kegel",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 104,
-    "adresse": {
-      "strasse": "Mauergasse",
-      "hausnummer": "13",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Judith Lösch",
-    "telefon": "017632468212",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 104,
-    "adresse": {
-      "strasse": "Mauergasse",
-      "hausnummer": "13",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Julia Dorn",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 104,
-    "adresse": {
-      "strasse": "Mauergasse",
-      "hausnummer": "13",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Anna Miriam Mende",
-    "telefon": "0176 28 32 90 00",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 104,
-    "adresse": {
-      "strasse": "Mauergasse",
-      "hausnummer": "13",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Dr. Frank Auffermann",
-    "telefon": "0611 374929",
-    "handy": "",
-    "fax": "0611 309244",
-    "geschlecht": "M",
-    "entfernung_meter": 124,
-    "adresse": {
-      "strasse": "Grabenstraße",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Frauenarzt/-ärztin; Gynäkologie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "09:00-10:00",
-      "dienstag": "09:00-10:00",
-      "mittwoch": "09:00-10:00",
-      "donnerstag": "09:00-10:00",
-      "freitag": "09:00-10:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Antje Auffermann",
-    "telefon": "0611 374929",
-    "handy": "",
-    "fax": "0611 309244",
-    "geschlecht": "F",
-    "entfernung_meter": 124,
-    "adresse": {
-      "strasse": "Grabenstraße",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Frauenarzt/-ärztin; Gynäkologie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "09:00-10:00",
-      "dienstag": "09:00-10:00",
-      "mittwoch": "09:00-10:00",
-      "donnerstag": "09:00-10:00",
-      "freitag": "09:00-10:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Sandra Reichenek",
-    "telefon": "0611 374929",
-    "handy": "",
-    "fax": "0611 309244",
-    "geschlecht": "F",
-    "entfernung_meter": 124,
-    "adresse": {
-      "strasse": "Grabenstraße",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Frauenarzt/-ärztin; Gynäkologie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "09:00-10:00",
-      "donnerstag": "15:00-16:00",
-      "freitag": "09:00-10:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Katja Schienke",
-    "telefon": "0611 20475039",
-    "handy": "",
-    "fax": "0611 20475038",
-    "geschlecht": "F",
-    "entfernung_meter": 145,
-    "adresse": {
-      "strasse": "Marktstraße",
-      "hausnummer": "21",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Dr. Marianne Kilburg",
-    "telefon": "0611 36082084",
-    "handy": "0157 88222936",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 151,
-    "adresse": {
-      "strasse": "Neugasse",
-      "hausnummer": "11",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Hausarzt; Allgemeinmedizin"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Prof. Felix Koch",
-    "telefon": "0611 51010530",
-    "handy": "",
-    "fax": "0611 51010529",
-    "geschlecht": "M",
-    "entfernung_meter": 151,
-    "adresse": {
-      "strasse": "Marktplatz",
-      "hausnummer": "3",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Mund-Kiefer-Gesichtschirurgie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Christina Kubisch",
-    "telefon": "",
-    "handy": "0176 87730611",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 154,
-    "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Dr. Antje Lehnert",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 154,
-    "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Frauenarzt/-ärztin; Gynäkologie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. James Seabert",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 154,
-    "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Frauenarzt/-ärztin; Gynäkologie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "12:00-13:00",
-      "dienstag": "12:00-13:00",
-      "mittwoch": "12:00-13:00",
-      "donnerstag": "11:00-12:00",
-      "freitag": "12:00-13:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Volkhard Hühn",
-    "telefon": "0611 844703",
-    "handy": "",
-    "fax": "0611 3334823",
-    "geschlecht": "M",
-    "entfernung_meter": 154,
-    "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Hausarzt; Allgemeinmedizin",
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Ferdinand Mitterlehner",
-    "telefon": "0611 36054112",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 154,
-    "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Gruppentherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Dr. Claudia Christ",
-    "telefon": "0611 36054112",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 154,
-    "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Jannis Hildebrandt",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 154,
-    "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Urologie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "dienstag": "11:40-12:00",
-      "mittwoch": "11:40-12:00",
-      "donnerstag": "10:40-10:55",
-      "freitag": "11:40-12:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Magnus Volk",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 154,
-    "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Urologie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "11:40-12:00",
-      "dienstag": "11:40-12:00",
-      "mittwoch": "11:40-12:00",
-      "donnerstag": "10:40-11:00",
-      "freitag": "11:40-12:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Tim Schykowski",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 154,
-    "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Urologie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "11:40-12:00",
-      "dienstag": "11:40-12:00",
-      "mittwoch": "11:40-12:00",
-      "donnerstag": "08:00-10:50",
-      "freitag": "11:40-12:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Petra Timm-Lang",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 154,
-    "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Urologie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "11:40-12:00",
-      "dienstag": "11:40-12:00",
-      "mittwoch": "11:40-12:00",
-      "donnerstag": "10:40-11:00",
-      "freitag": "11:40-12:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Matthias Claus",
-    "telefon": "0611 301527",
-    "handy": "",
-    "fax": "0611 376255",
-    "geschlecht": "M",
-    "entfernung_meter": 154,
-    "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Hausarzt; Allgemeinmedizin"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Markus Pott",
-    "telefon": "0611 301527",
-    "handy": "",
-    "fax": "0611 376255",
-    "geschlecht": "M",
-    "entfernung_meter": 154,
-    "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Hausarzt; Allgemeinmedizin"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Targol Voßkühler-Ranjbar",
-    "telefon": "0611 304437",
-    "handy": "",
-    "fax": "0611 371781",
-    "geschlecht": "F",
-    "entfernung_meter": 154,
-    "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Augenheilkunde"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Tiemo Kern",
-    "telefon": "0611 304437",
-    "handy": "",
-    "fax": "0611 371781",
-    "geschlecht": "M",
-    "entfernung_meter": 154,
-    "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Anästhesiologie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Sofia Freifrau von der Goltz",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 156,
-    "adresse": {
-      "strasse": "Neugasse",
-      "hausnummer": "9",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Hausarzt; Allgemeinmedizin"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Sara Prengel-Baumgartner",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 156,
-    "adresse": {
-      "strasse": "Neugasse",
-      "hausnummer": "9",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Hausarzt; Allgemeinmedizin"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Rainer Rippert",
-    "telefon": "0611 305098",
-    "handy": "",
-    "fax": "0611 305097",
-    "geschlecht": "M",
-    "entfernung_meter": 162,
-    "adresse": {
-      "strasse": "Marktstraße",
-      "hausnummer": "32",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Hausarzt; Allgemeinmedizin"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Salie Osman Achmet",
-    "telefon": "0611 372210",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 162,
-    "adresse": {
-      "strasse": "Marktstraße",
-      "hausnummer": "32",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Hals-Nasen-Ohrenheilkunde (HNO)"
-    ],
-    "telefonische_erreichbarkeit": {
-      "freitag": "09:00-12:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Meri Arakelyan",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 181,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "29",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Innere Medizin (fachärztlich)"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Petra Saar",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 181,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "29",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Innere Medizin (fachärztlich)"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Marion Löbel",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 181,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "29",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Innere Medizin (fachärztlich)"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Vicky Kyriazi",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 181,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "29",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Innere Medizin (fachärztlich)"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Katrin Köchel",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 181,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "29",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Innere Medizin (fachärztlich)"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Wolf Dieter Wörth",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 181,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "29",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Innere Medizin (fachärztlich)"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Ilka Bösenberg",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 181,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "29",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Innere Medizin (fachärztlich)"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Heiko Martin Lantzsch",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 181,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "29",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Innere Medizin (fachärztlich)"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Bernd Ditter",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 181,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "29",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Dr. Ines Nienhaus",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 181,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "29",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Hausarzt; Allgemeinmedizin"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Philipp Drechsel",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 181,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "29",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Hausarzt; Allgemeinmedizin"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Friedel-Markus Walter",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 181,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "29",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Hausarzt; Allgemeinmedizin"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Ulrich Thormann",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 181,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "29",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Chirurgie und Orthopädie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Katharina Teuteberg-Kley",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 181,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "29",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Chirurgie und Orthopädie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Dennis Wincheringer",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 181,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "29",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Chirurgie und Orthopädie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Philipp Wilde",
-    "telefon": "0611 992720",
-    "handy": "",
-    "fax": "0611 9927215",
-    "geschlecht": "M",
-    "entfernung_meter": 181,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "29",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Chirurgie und Orthopädie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Nina Schmidt-Horlohé",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 181,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "29",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Chirurgie und Orthopädie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Kay Hajo Schmidt-Horlohé",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 181,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "29",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Chirurgie und Orthopädie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Martina Wagner",
-    "telefon": "0611 307474",
-    "handy": "",
-    "fax": "0611 3081315",
-    "geschlecht": "F",
-    "entfernung_meter": 182,
-    "adresse": {
-      "strasse": "Marktstraße",
-      "hausnummer": "34",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Frauenarzt/-ärztin; Gynäkologie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "08:00-10:00",
-      "dienstag": "08:00-10:00",
-      "donnerstag": "08:00-10:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Stephanie Steinhorst",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 188,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "31",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Augenheilkunde"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "09:00-10:00",
-      "dienstag": "09:00-10:00",
-      "mittwoch": "08:30-09:30",
-      "donnerstag": "09:00-10:00",
-      "freitag": "09:00-10:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Katharina Brucker",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 192,
-    "adresse": {
-      "strasse": "Mühlgasse",
-      "hausnummer": "17",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Ana Saric",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 192,
-    "adresse": {
-      "strasse": "Mühlgasse",
-      "hausnummer": "17",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Sophia Raus",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 192,
-    "adresse": {
-      "strasse": "Mühlgasse",
-      "hausnummer": "17",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Sina Ruwoldt",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 192,
-    "adresse": {
-      "strasse": "Mühlgasse",
-      "hausnummer": "17",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Hanna Ronge",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 192,
-    "adresse": {
-      "strasse": "Mühlgasse",
-      "hausnummer": "17",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Linda Krieger",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 192,
-    "adresse": {
-      "strasse": "Mühlgasse",
-      "hausnummer": "17",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Sarah Künzl",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 192,
-    "adresse": {
-      "strasse": "Mühlgasse",
-      "hausnummer": "17",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Dr. Clara Quetscher",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 192,
-    "adresse": {
-      "strasse": "Mühlgasse",
-      "hausnummer": "17",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Verhaltenstherapie für Kinder und Jugendliche in Einzeltherapie",
-      "Verhaltenstherapie für Kinder und Jugendliche in Gruppentherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Dr. Kristine Gemmeker",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 196,
-    "adresse": {
-      "strasse": "Marktstraße",
-      "hausnummer": "31",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Hausarzt; Allgemeinmedizin"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Julia Eckstein",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 201,
-    "adresse": {
-      "strasse": "Langgasse",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Alexandra Kauss",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 201,
-    "adresse": {
-      "strasse": "Langgasse",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Valérie Lauterbach",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 201,
-    "adresse": {
-      "strasse": "Langgasse",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Christine Manke-Ünalan",
-    "telefon": "0611 97196558",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 201,
-    "adresse": {
-      "strasse": "Langgasse",
-      "hausnummer": "1",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Marco Thomas",
-    "telefon": "0611 9719995",
-    "handy": "0172 4628556",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 204,
-    "adresse": {
-      "strasse": "Wilhelmstraße",
-      "hausnummer": "34",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Thea Wolf-Carmesin",
-    "telefon": "",
-    "handy": "0151 41661044",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 204,
-    "adresse": {
-      "strasse": "Wilhelmstraße",
-      "hausnummer": "34",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Angelika Trabert",
-    "telefon": "0611 301960",
-    "handy": "",
-    "fax": "0611 3082732",
-    "geschlecht": "F",
-    "entfernung_meter": 207,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "14",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Anästhesiologie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Andreas Göbel",
-    "telefon": "0611 301960",
-    "handy": "",
-    "fax": "0611 3082732",
-    "geschlecht": "M",
-    "entfernung_meter": 207,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "14",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Chirurgie und Orthopädie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Sameh Akbik",
-    "telefon": "0611 301960",
-    "handy": "",
-    "fax": "0611 3082732",
-    "geschlecht": "M",
-    "entfernung_meter": 207,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "14",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Chirurgie und Orthopädie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Klaus Schlaefke",
-    "telefon": "0611 305484",
-    "handy": "",
-    "fax": "0611 370597",
-    "geschlecht": "M",
-    "entfernung_meter": 208,
-    "adresse": {
-      "strasse": "Wilhelmstraße",
-      "hausnummer": "40",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Augenheilkunde"
-    ],
-    "telefonische_erreichbarkeit": {
-      "dienstag": "09:15-11:15",
-      "mittwoch": "09:15-12:15"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Hakan Taspinar",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 208,
-    "adresse": {
-      "strasse": "Burgstraße",
-      "hausnummer": "6 - 8",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Hausarzt; Allgemeinmedizin"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Mohamed Amer",
-    "telefon": "0611 36029050",
-    "handy": "",
-    "fax": "0611 36029051",
-    "geschlecht": "M",
-    "entfernung_meter": 208,
-    "adresse": {
-      "strasse": "Burgstraße",
-      "hausnummer": "6 - 8",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Chirurgie und Orthopädie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "dienstag": "10:00-11:00",
-      "donnerstag": "09:00-10:00",
-      "freitag": "09:00-11:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Andreas Schoppe",
-    "telefon": "0611 374559",
-    "handy": "",
-    "fax": "0611 333364",
-    "geschlecht": "M",
-    "entfernung_meter": 208,
-    "adresse": {
-      "strasse": "Burgstraße",
-      "hausnummer": "6-8",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Hals-Nasen-Ohrenheilkunde (HNO)"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "08:50-09:00, 09:50-10:00, 10:50-11:00, 11:50-12:00, 12:50-13:00, 15:50-16:00, 16:50-17:00, 17:50-18:00",
-      "dienstag": "08:50-09:00, 09:50-10:00, 10:50-11:00, 11:50-12:00, 12:50-13:00",
-      "mittwoch": "08:50-09:00, 09:50-10:00, 10:50-11:00, 11:50-12:00, 12:50-13:00",
-      "donnerstag": "09:50-10:00, 10:50-11:00, 11:50-12:00, 12:50-13:00, 15:50-16:00, 16:50-17:00, 17:50-18:00",
-      "freitag": "08:50-09:00, 09:50-10:00, 10:50-11:00, 11:50-12:00, 12:50-13:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Rüdiger Küppers",
-    "telefon": "0611 374559",
-    "handy": "",
-    "fax": "0611 333364",
-    "geschlecht": "M",
-    "entfernung_meter": 208,
-    "adresse": {
-      "strasse": "Burgstraße",
-      "hausnummer": "6-8",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Hals-Nasen-Ohrenheilkunde (HNO)"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "08:50-09:00, 09:50-10:00, 10:50-11:00, 11:50-12:00, 12:50-13:00, 15:50-16:00, 16:50-17:00, 17:50-18:00",
-      "dienstag": "08:50-09:00, 09:50-10:00, 10:50-11:00, 11:50-12:00, 12:50-13:00, 15:50-16:00, 16:50-17:00, 17:50-18:00",
-      "mittwoch": "08:50-09:00, 09:50-10:00, 10:50-11:00, 11:50-12:00, 12:50-13:10",
-      "donnerstag": "09:50-10:00, 10:50-11:00, 11:50-12:00, 12:50-13:00, 15:50-16:00, 16:50-17:00, 17:50-18:10"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Thomas Menzel",
-    "telefon": "0611 3417000",
-    "handy": "",
-    "fax": "0611 34170017",
-    "geschlecht": "M",
-    "entfernung_meter": 208,
-    "adresse": {
-      "strasse": "Burgstraße",
-      "hausnummer": "6-8",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Innere Medizin (fachärztlich)"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Florian Lang",
-    "telefon": "0611 3417000",
-    "handy": "",
-    "fax": "0611 34170017",
-    "geschlecht": "M",
-    "entfernung_meter": 208,
-    "adresse": {
-      "strasse": "Burgstraße",
-      "hausnummer": "6-8",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Innere Medizin (fachärztlich)"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Zisis Dimitriadis",
-    "telefon": "0611 3417000",
-    "handy": "",
-    "fax": "0611 34170017",
-    "geschlecht": "M",
-    "entfernung_meter": 208,
-    "adresse": {
-      "strasse": "Burgstraße",
-      "hausnummer": "6-8",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Innere Medizin (fachärztlich)"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Klaus Schlotthauer",
-    "telefon": "0611 3417000",
-    "handy": "",
-    "fax": "0611 34170017",
-    "geschlecht": "M",
-    "entfernung_meter": 208,
-    "adresse": {
-      "strasse": "Burgstraße",
-      "hausnummer": "6-8",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Innere Medizin (fachärztlich)"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Stefan Ott",
-    "telefon": "0611 335990",
-    "handy": "",
-    "fax": "0611 3359919",
-    "geschlecht": "M",
-    "entfernung_meter": 208,
-    "adresse": {
-      "strasse": "Burgstraße",
-      "hausnummer": "6-8",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Innere Medizin (fachärztlich)"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Thomas Hennig",
-    "telefon": "0611 335990",
-    "handy": "",
-    "fax": "0611 3359919",
-    "geschlecht": "M",
-    "entfernung_meter": 208,
-    "adresse": {
-      "strasse": "Burgstraße",
-      "hausnummer": "6-8",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Innere Medizin (fachärztlich)"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Angelika Pibernik",
-    "telefon": "0611 335990",
-    "handy": "",
-    "fax": "0611 3359919",
-    "geschlecht": "F",
-    "entfernung_meter": 208,
-    "adresse": {
-      "strasse": "Burgstraße",
-      "hausnummer": "6-8",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Innere Medizin (fachärztlich)"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Ralf Schneider",
-    "telefon": "0611 335990",
-    "handy": "",
-    "fax": "0611 3359919",
-    "geschlecht": "M",
-    "entfernung_meter": 208,
-    "adresse": {
-      "strasse": "Burgstraße",
-      "hausnummer": "6-8",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Innere Medizin (fachärztlich)"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Nicole Menzel",
-    "telefon": "0611 17078500",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 211,
-    "adresse": {
-      "strasse": "Wilhelmstraße",
-      "hausnummer": "30",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Chirurgie und Orthopädie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "dienstag": "08:00-09:00",
-      "donnerstag": "08:00-09:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Marcus Egermann",
-    "telefon": "0611 17078500",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 211,
-    "adresse": {
-      "strasse": "Wilhelmstraße",
-      "hausnummer": "30",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Chirurgie und Orthopädie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "mittwoch": "08:00-09:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Alexander Götze",
-    "telefon": "0611 17078500",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 211,
-    "adresse": {
-      "strasse": "Wilhelmstraße",
-      "hausnummer": "30",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Chirurgie und Orthopädie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "08:00-09:00",
-      "donnerstag": "08:00-09:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Prof. Bruno Gladbach",
-    "telefon": "0611 17078500",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 211,
-    "adresse": {
-      "strasse": "Wilhelmstraße",
-      "hausnummer": "30",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Chirurgie und Orthopädie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "donnerstag": "08:00-09:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Alexandra Hund",
-    "telefon": "0611 17078500",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 211,
-    "adresse": {
-      "strasse": "Wilhelmstraße",
-      "hausnummer": "30",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Chirurgie und Orthopädie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "08:00-09:00",
-      "dienstag": "08:00-09:00",
-      "mittwoch": "08:00-09:00",
-      "donnerstag": "08:00-09:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Prof. Gian Max Salzmann",
-    "telefon": "0611 17078500",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 211,
-    "adresse": {
-      "strasse": "Wilhelmstraße",
-      "hausnummer": "30",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Chirurgie und Orthopädie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "08:00-09:00",
-      "dienstag": "08:00-09:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Prof. Edgar-Klaus Roth",
-    "telefon": "0611 17078500",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 211,
-    "adresse": {
-      "strasse": "Wilhelmstraße",
-      "hausnummer": "30",
-      "plz": "65183",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Chirurgie und Orthopädie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "freitag": "08:00-09:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Nina Mehringer",
-    "telefon": "0611 900170",
-    "handy": "",
-    "fax": "0611 95474420",
-    "geschlecht": "F",
-    "entfernung_meter": 216,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "12",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Radiologie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Birgit Vorndran",
-    "telefon": "0611 900170",
-    "handy": "",
-    "fax": "0611 95474420",
-    "geschlecht": "F",
-    "entfernung_meter": 216,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "12",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Radiologie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "11:00-12:00",
-      "dienstag": "11:00-12:00",
-      "mittwoch": "11:00-12:00",
-      "donnerstag": "11:00-12:00",
-      "freitag": "11:00-12:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Ewa Ghareh Hassanloo",
-    "telefon": "0611 900170",
-    "handy": "",
-    "fax": "0611 95474420",
-    "geschlecht": "F",
-    "entfernung_meter": 216,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "12",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Radiologie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Samira Sepehr Rezai",
-    "telefon": "0611 900170",
-    "handy": "",
-    "fax": "0611 95474420",
-    "geschlecht": "F",
-    "entfernung_meter": 216,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "12",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Nuklearmedizin"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "11:00-12:00",
-      "dienstag": "11:00-12:00",
-      "mittwoch": "11:00-12:00",
-      "donnerstag": "11:00-12:00",
-      "freitag": "11:00-12:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Elena Hellmuth",
-    "telefon": "0611 900170",
-    "handy": "",
-    "fax": "0611 95474420",
-    "geschlecht": "F",
-    "entfernung_meter": 216,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "12",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Nuklearmedizin"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Christoph Bultmann",
-    "telefon": "0611 900170",
-    "handy": "",
-    "fax": "0611 95474420",
-    "geschlecht": "M",
-    "entfernung_meter": 216,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "12",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Labormedizin / Mikrobiologie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Christopher Ahlers",
-    "telefon": "0611 900170",
-    "handy": "",
-    "fax": "0611 95474420",
-    "geschlecht": "M",
-    "entfernung_meter": 216,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "12",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Radiologie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "11:00-12:00",
-      "dienstag": "11:00-12:00",
-      "mittwoch": "11:00-12:00",
-      "donnerstag": "11:00-12:00",
-      "freitag": "11:00-12:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Ngan Phuong Truong",
-    "telefon": "0611 900170",
-    "handy": "",
-    "fax": "0611 95474420",
-    "geschlecht": "F",
-    "entfernung_meter": 216,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "12",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Nuklearmedizin"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "11:00-12:00",
-      "dienstag": "11:00-12:00",
-      "mittwoch": "11:00-12:00",
-      "donnerstag": "11:00-12:00",
-      "freitag": "11:00-12:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Christian Lückerath",
-    "telefon": "0611 900170",
-    "handy": "",
-    "fax": "0611 95474420",
-    "geschlecht": "M",
-    "entfernung_meter": 216,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "12",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Radiologie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Stefan Käshammer",
-    "telefon": "0611 900170",
-    "handy": "",
-    "fax": "0611 95474420",
-    "geschlecht": "M",
-    "entfernung_meter": 216,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "12",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Nuklearmedizin"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Jorge Hoppner Ganen",
-    "telefon": "0611 900170",
-    "handy": "",
-    "fax": "0611 95474420",
-    "geschlecht": "M",
-    "entfernung_meter": 216,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "12",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Nuklearmedizin"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Hubertus von Zitzewitz",
-    "telefon": "0611 900170",
-    "handy": "",
-    "fax": "0611 95474420",
-    "geschlecht": "M",
-    "entfernung_meter": 216,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "12",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Radiologie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "11:00-12:00",
-      "dienstag": "11:00-12:00",
-      "mittwoch": "11:00-12:00",
-      "donnerstag": "11:00-12:00",
-      "freitag": "11:00-12:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Matthias Troglauer",
-    "telefon": "0611 900170",
-    "handy": "",
-    "fax": "0611 95474420",
-    "geschlecht": "M",
-    "entfernung_meter": 216,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "12",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Nuklearmedizin"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "11:00-12:00",
-      "dienstag": "11:00-12:00",
-      "mittwoch": "11:00-12:00",
-      "donnerstag": "11:00-12:00",
-      "freitag": "11:00-12:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Stefanie Bitschnau",
-    "telefon": "0611 900170",
-    "handy": "",
-    "fax": "0611 95474420",
-    "geschlecht": "F",
-    "entfernung_meter": 216,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "12",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Radiologie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "11:00-12:00",
-      "dienstag": "11:00-12:00",
-      "mittwoch": "11:00-12:00",
-      "donnerstag": "11:00-12:00",
-      "freitag": "11:00-12:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Prof. Christian Menzel",
-    "telefon": "0611 900170",
-    "handy": "",
-    "fax": "0611 95474420",
-    "geschlecht": "M",
-    "entfernung_meter": 216,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "12",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Nuklearmedizin"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Jochen Mundschenk",
-    "telefon": "0611 900170",
-    "handy": "",
-    "fax": "0611 95474420",
-    "geschlecht": "M",
-    "entfernung_meter": 216,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "12",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Nuklearmedizin"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "11:00-12:00",
-      "dienstag": "11:00-12:00",
-      "mittwoch": "11:00-12:00",
-      "donnerstag": "11:00-12:00",
-      "freitag": "11:00-12:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Udo Trost",
-    "telefon": "0611 900170",
-    "handy": "",
-    "fax": "0611 95474420",
-    "geschlecht": "M",
-    "entfernung_meter": 216,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "12",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Radiologie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "11:00-12:00",
-      "dienstag": "11:00-12:00",
-      "mittwoch": "11:00-12:00",
-      "donnerstag": "11:00-12:00",
-      "freitag": "11:00-12:00"
-    },
-    "psychotherapie": []
-  },
-  {
-    "name": "Dr. Silvia Oddo-Sommerfeld",
-    "telefon": "0611 6010117",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 222,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "39",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Miriam Reid",
-    "telefon": "0611 691180",
-    "handy": "",
-    "fax": "0611 691177",
-    "geschlecht": "F",
-    "entfernung_meter": 222,
-    "adresse": {
-      "strasse": "Friedrichstraße",
-      "hausnummer": "39",
-      "plz": "65185",
-      "ort": "Wiesbaden"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {},
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
     "name": "Dr. Alexander Cherdron",
     "telefon": "0611 691180",
     "handy": "",
@@ -2344,179 +22,591 @@
     ]
   },
   {
-    "name": "Dr. Sultan Afghanyar",
-    "telefon": "0611 3415339",
+    "name": "Moritz Baumgarten",
+    "telefon": "0611 4503050",
     "handy": "",
-    "fax": "",
+    "fax": "0611 503051",
     "geschlecht": "M",
-    "entfernung_meter": 224,
+    "entfernung_meter": 235,
     "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "10",
-      "plz": "65183",
+      "strasse": "Friedrichstraße",
+      "hausnummer": "8",
+      "plz": "65185",
       "ort": "Wiesbaden"
     },
     "fachgebiete": [
-      "Anästhesiologie"
+      "Psychotherapie"
     ],
     "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Analytische Psychotherapie für Erwachsene in Gruppentherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie"
+    ]
   },
   {
-    "name": "Dr. Tammo Quitzau",
+    "name": "Dr. Nina Grintschuk",
+    "telefon": "0611 53243131",
+    "handy": "",
+    "fax": "0611 98810317",
+    "geschlecht": "F",
+    "entfernung_meter": 439,
+    "adresse": {
+      "strasse": "Rheinstraße",
+      "hausnummer": "31",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Birgit Pechmann",
+    "telefon": "0611 36009633",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 468,
+    "adresse": {
+      "strasse": "Steubenstraße",
+      "hausnummer": "3",
+      "plz": "65189",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Dr. Fabian Jakob Escher",
+    "telefon": "0611 98752643",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 574,
+    "adresse": {
+      "strasse": "Rheinstraße",
+      "hausnummer": "59",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Analytische Psychotherapie für Kinder und Jugendliche in Einzeltherapie",
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Analytische Psychotherapie für Kinder und Jugendliche in Gruppentherapie",
+      "Analytische Psychotherapie für Erwachsene in Gruppentherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Gruppentherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Dr. Christiana Udeogu-Gözalan",
     "telefon": "",
+    "handy": "0160 99124925",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 604,
+    "adresse": {
+      "strasse": "Moritzstraße",
+      "hausnummer": "6",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Neurologie / Psychiatrie",
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Analytische Psychotherapie für Erwachsene in Gruppentherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie"
+    ]
+  },
+  {
+    "name": "Dr. Henrik Winkelmann",
+    "telefon": "06128 9681801",
+    "handy": "",
+    "fax": "06128 9681799",
+    "geschlecht": "M",
+    "entfernung_meter": 754,
+    "adresse": {
+      "strasse": "Adelheidstraße",
+      "hausnummer": "44",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Karen Hübler",
+    "telefon": "",
+    "handy": "0155 65968123",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 809,
+    "adresse": {
+      "strasse": "Bahnhofstraße",
+      "hausnummer": "55 - 57",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Sophia Vowinkel",
+    "telefon": "",
+    "handy": "0178 8155883",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 809,
+    "adresse": {
+      "strasse": "Bahnhofstraße",
+      "hausnummer": "55 - 57",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Maria Rauber",
+    "telefon": "0611 73228135",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 809,
+    "adresse": {
+      "strasse": "Bahnhofstraße",
+      "hausnummer": "55 - 57",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Analytische Psychotherapie für Kinder und Jugendliche in Einzeltherapie",
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Analytische Psychotherapie für Kinder und Jugendliche in Gruppentherapie",
+      "Analytische Psychotherapie für Erwachsene in Gruppentherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Gruppentherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Dr. Juergen Rauber",
+    "telefon": "0611 73228135",
     "handy": "",
     "fax": "",
     "geschlecht": "M",
-    "entfernung_meter": 224,
+    "entfernung_meter": 809,
     "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "10",
-      "plz": "65183",
+      "strasse": "Bahnhofstraße",
+      "hausnummer": "55 - 57",
+      "plz": "65185",
       "ort": "Wiesbaden"
     },
     "fachgebiete": [
-      "Hausarzt; Allgemeinmedizin"
+      "Psychotherapie"
     ],
     "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
+    "psychotherapie": [
+      "Analytische Psychotherapie für Kinder und Jugendliche in Einzeltherapie",
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Analytische Psychotherapie für Kinder und Jugendliche in Gruppentherapie",
+      "Analytische Psychotherapie für Erwachsene in Gruppentherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Gruppentherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Einzeltherapie"
+    ]
   },
   {
-    "name": "Dr. Gundula Sümenicht-Böhm",
-    "telefon": "0611 301635",
-    "handy": "",
-    "fax": "0611 301636",
+    "name": "Ralitsa Radkova",
+    "telefon": "0611 53231131",
+    "handy": "0152 33560664",
+    "fax": "",
     "geschlecht": "F",
-    "entfernung_meter": 224,
+    "entfernung_meter": 926,
     "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "10",
-      "plz": "65183",
+      "strasse": "Bahnhofstraße",
+      "hausnummer": "63",
+      "plz": "65185",
       "ort": "Wiesbaden"
     },
     "fachgebiete": [
-      "Kinderarzt/-ärztin"
+      "Psychotherapie"
     ],
     "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
+    "psychotherapie": [
+      "Analytische Psychotherapie für Kinder und Jugendliche in Einzeltherapie",
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Analytische Psychotherapie für Kinder und Jugendliche in Gruppentherapie",
+      "Analytische Psychotherapie für Erwachsene in Gruppentherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Gruppentherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Einzeltherapie"
+    ]
   },
   {
-    "name": "Dr. Doris Popp",
-    "telefon": "0611 301635",
-    "handy": "",
-    "fax": "0611 301636",
+    "name": "Veronika Mendelova",
+    "telefon": "061158027808",
+    "handy": "0157 30403347",
+    "fax": "06116 0923661",
     "geschlecht": "F",
-    "entfernung_meter": 224,
+    "entfernung_meter": 926,
     "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "10",
-      "plz": "65183",
+      "strasse": "Bahnhofstraße",
+      "hausnummer": "63",
+      "plz": "65185",
       "ort": "Wiesbaden"
     },
     "fachgebiete": [
-      "Kinderarzt/-ärztin"
+      "Psychotherapie"
     ],
     "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
   },
   {
-    "name": "Dr. Ashkabous Emadi",
-    "telefon": "0611 440915",
+    "name": "Monika Ayerle",
+    "telefon": "",
+    "handy": "0160 91145999",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 989,
+    "adresse": {
+      "strasse": "Kaiser-Friedrich-Ring",
+      "hausnummer": "5",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Dr. Michael Vehling",
+    "telefon": "0611 9006650",
     "handy": "",
-    "fax": "0611 47678",
+    "fax": "0611 9006651",
     "geschlecht": "M",
-    "entfernung_meter": 224,
+    "entfernung_meter": 992,
     "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "10",
-      "plz": "65183",
+      "strasse": "Oranienstraße",
+      "hausnummer": "37",
+      "plz": "65185",
       "ort": "Wiesbaden"
     },
     "fachgebiete": [
-      "Chirurgie und Orthopädie"
+      "Neurologie / Psychiatrie",
+      "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {
-      "dienstag": "14:30-17:00",
-      "donnerstag": "15:30-18:00"
-    },
-    "psychotherapie": []
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
   },
   {
-    "name": "Dr. Dagmar Wenz",
-    "telefon": "0611 50595200",
+    "name": "Dr. Birgitt Killinger",
+    "telefon": "0611 306300",
     "handy": "",
-    "fax": "0611 50595252",
+    "fax": "0611 306382",
     "geschlecht": "F",
-    "entfernung_meter": 224,
+    "entfernung_meter": 1209,
     "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "10",
-      "plz": "65183",
+      "strasse": "Viktoriastraße",
+      "hausnummer": "49",
+      "plz": "65189",
       "ort": "Wiesbaden"
     },
     "fachgebiete": [
-      "Hausarzt; Allgemeinmedizin"
+      "Psychotherapie"
     ],
     "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
   },
   {
-    "name": "Dr. Alexa Krambeck",
-    "telefon": "0611 50595200",
+    "name": "Elke Norma Heeb",
+    "telefon": "0611 4060263",
     "handy": "",
-    "fax": "0611 50595252",
+    "fax": "",
     "geschlecht": "F",
-    "entfernung_meter": 224,
+    "entfernung_meter": 1431,
     "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "10",
-      "plz": "65183",
+      "strasse": "Walkmühlstraße",
+      "hausnummer": "41",
+      "plz": "65195",
       "ort": "Wiesbaden"
     },
     "fachgebiete": [
-      "Hals-Nasen-Ohrenheilkunde (HNO)"
+      "Psychotherapie"
     ],
     "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
   },
   {
-    "name": "Dr. Jan Hagemann",
-    "telefon": "0611 50595200",
+    "name": "Martina Bröckel",
+    "telefon": "0611 51934",
     "handy": "",
-    "fax": "0611 50595252",
-    "geschlecht": "M",
-    "entfernung_meter": 224,
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 1522,
     "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "10",
-      "plz": "65183",
+      "strasse": "Nerobergstraße",
+      "hausnummer": "13",
+      "plz": "65193",
       "ort": "Wiesbaden"
     },
     "fachgebiete": [
-      "Hals-Nasen-Ohrenheilkunde (HNO)"
+      "Psychotherapie"
     ],
     "telefonische_erreichbarkeit": {},
-    "psychotherapie": []
+    "psychotherapie": [
+      "Analytische Psychotherapie für Kinder und Jugendliche in Einzeltherapie",
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Einzeltherapie"
+    ]
   },
   {
-    "name": "Prof. Ludger Klimek",
-    "telefon": "0611 50595200",
+    "name": "Nadezda Schmidt",
+    "telefon": "0160 1455400",
     "handy": "",
-    "fax": "0611 50595252",
-    "geschlecht": "M",
-    "entfernung_meter": 224,
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 1552,
     "adresse": {
-      "strasse": "An den Quellen",
-      "hausnummer": "10",
-      "plz": "65183",
+      "strasse": "Loreleiring",
+      "hausnummer": "8",
+      "plz": "65197",
       "ort": "Wiesbaden"
     },
     "fachgebiete": [
-      "Hals-Nasen-Ohrenheilkunde (HNO)"
+      "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {
-      "mittwoch": "08:00-13:00"
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Alfred Krieger",
+    "telefon": "0611 9011994",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 1780,
+    "adresse": {
+      "strasse": "Lahnstraße",
+      "hausnummer": "41",
+      "plz": "65195",
+      "ort": "Wiesbaden"
     },
-    "psychotherapie": []
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Ulrike Seelig",
+    "telefon": "",
+    "handy": "0151 61493902",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 1982,
+    "adresse": {
+      "strasse": "Biebricher Allee",
+      "hausnummer": "53",
+      "plz": "65187",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Analytische Psychotherapie für Erwachsene in Gruppentherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie"
+    ]
+  },
+  {
+    "name": "Lisa Schmitt",
+    "telefon": "0160 93185525",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 1982,
+    "adresse": {
+      "strasse": "Biebricher Allee",
+      "hausnummer": "53",
+      "plz": "65187",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Dr. Rainer Paul",
+    "telefon": "",
+    "handy": "0175 8758527",
+    "fax": "0611 5990444",
+    "geschlecht": "M",
+    "entfernung_meter": 2152,
+    "adresse": {
+      "strasse": "Liebenaustraße",
+      "hausnummer": "7",
+      "plz": "65191",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Eugen Gülker",
+    "telefon": "0611 377132",
+    "handy": "",
+    "fax": "0611 377132",
+    "geschlecht": "M",
+    "entfernung_meter": 2220,
+    "adresse": {
+      "strasse": "Dorotheenweg",
+      "hausnummer": "7",
+      "plz": "65193",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Analytische Psychotherapie für Erwachsene in Gruppentherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie"
+    ]
+  },
+  {
+    "name": "Ursula Paul",
+    "telefon": "0611 528664",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 2346,
+    "adresse": {
+      "strasse": "Danziger Straße",
+      "hausnummer": "56",
+      "plz": "65191",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Analytische Psychotherapie für Erwachsene in Gruppentherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie"
+    ]
+  },
+  {
+    "name": "Dr. Rainer Paul",
+    "telefon": "",
+    "handy": "0175 8758527",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 2801,
+    "adresse": {
+      "strasse": "Otto-Witte-Straße",
+      "hausnummer": "70",
+      "plz": "65197",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
   }
 ]
