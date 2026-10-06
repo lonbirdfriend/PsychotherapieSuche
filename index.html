@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Psychotherapie Sprechzeiten Wiesbaden</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+        .doctor-card { animation: fadeIn 0.4s ease-out; }
+        .pulse-dot { animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
+        @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .5; } }
+        .spinner { border: 3px solid #f3f4f6; border-top: 3px solid #4f46e5; border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+    </style>
+</head>
+<body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen">
+    <div class="container mx-auto px-4 py-8 max-w-7xl">
+        
+        <!-- Header -->
+        <header class="text-center mb-8">
+            <h1 class="text-5xl font-bold text-indigo-900 mb-3">📞 Psychotherapie Wiesbaden</h1>
+            <div class="text-xl text-gray-700 mb-2">
+                <span id="currentDateTime" class="font-semibold text-indigo-600"></span>
+            </div>
+            <p class="text-sm text-gray-600">Finde Therapeut:innen die du JETZT anrufen kannst</p>
+        </header>
+
+        <!-- Live Status Banner -->
+        <div class="bg-white rounded-xl shadow-lg p-6 mb-8">
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <!-- Jetzt Erreichbar -->
+                <div class="text-center p-4 bg-gradient-to-br from-green-50 to-emerald-50 rounded-lg border-2 border-green-200">
+                    <div class="flex items-center justify-center mb-2">
+                        <span class="pulse-dot inline-block w-3 h-3 bg-green-500 rounded-full mr-2"></span>
+                        <span class="text-sm font-semibold text-green-800">JETZT ERREICHBAR</span>
+                    </div>
+                    <div class="text-4xl font-bold text-green-600" id="availableNow">-</div>
+                    <div class="text-xs text-green-700 mt-1">Therapeut:innen</div>
+                </div>
+
+                <!-- Heute noch -->
+                <div class="text-center p-4 bg-gradient-to-br from-blue-50 to-sky-50 rounded-lg border-2 border-blue-200">
+                    <div class="text-sm font-semibold text-blue-800 mb-2">HEUTE NOCH</div>
+                    <div class="text-4xl font-bold text-blue-600" id="availableToday">-</div>
+                    <div class="text-xs text-blue-700 mt-1">Therapeut:innen</div>
+                </div>
+
+                <!-- Gesamt -->
+                <div class="text-center p-4 bg-gradient-to-br from-gray-50 to-slate-50 rounded-lg border-2 border-gray-200">
+                    <div class="text-sm font-semibold text-gray-800 mb-2">IN LISTE</div>
+                    <div class="text-4xl font-bold text-gray-600" id="totalDoctors">-</div>
+                    <div class="text-xs text-gray-700 mt-1">Therapeut:innen</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Filter -->
+        <div class="bg-white rounded-xl shadow-lg p-6 mb-8">
+            <div class="grid md:grid-cols-4 gap-4 mb-4">
+                <div>
+                    <label class="block text-sm font-medium text-gray-700 mb-2">📊 Ansicht</label>
+                    <select id="viewFilter" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500">
+                        <option value="jetzt">🟢 Nur JETZT erreichbar</option>
+                        <option value="heute">📅 Heute noch erreichbar</option>
+                        <option value="alle">👥 Alle Therapeut:innen</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label class="block text-sm font-medium text-gray-700 mb-2">📍 Max. Entfernung</label>
+                    <select id="distanceFilter" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500">
+                        <option value="99999">Alle</option>
+                        <option value="500">500m</option>
+                        <option value="1000">1km</option>
+                        <option value="2000">2km</option>
+                        <option value="5000">5km</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label class="block text-sm font-medium text-gray-700 mb-2">📅 Wochentag</label>
+                    <select id="dayFilter" class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500">
+                        <option value="heute">Heute</option>
+                        <option value="montag">Montag</option>
+                        <option value="dienstag">Dienstag</option>
+                        <option value="mittwoch">Mittwoch</option>
+                        <option value="donnerstag">Donnerstag</option>
+                        <option value="freitag">Freitag</option>
+                    </select>
+                </div>
+
+                <div class="flex items-end">
+                    <button onclick="loadData()" class="w-full px-4 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition font-semibold">
+                        🔄 Aktualisieren
+                    </button>
+                </div>
+            </div>
+
+            <!-- Zeitfilter -->
+            <div class="border-t border-gray-200 pt-4">
+                <div class="flex items-center mb-3">
+                    <input type="checkbox" id="enableTimeFilter" class="w-4 h-4 text-indigo-600 rounded mr-2">
+                    <label for="enableTimeFilter" class="text-sm font-medium text-gray-700">⏰ Zeitfilter aktivieren</label>
+                </div>
+                <div id="timeFilterInputs" class="grid md:grid-cols-3 gap-4" style="display: none;">
+                    <div>
+                        <label class="block text-xs text-gray-600 mb-1">Von (Uhrzeit)</label>
+                        <input type="time" id="timeFrom" value="08:00" class="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500">
+                    </div>
+                    <div>
+                        <label class="block text-xs text-gray-600 mb-1">Bis (Uhrzeit)</label>
+                        <input type="time" id="timeTo" value="20:00" class="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500">
+                    </div>
+                    <div class="flex items-end">
+                        <button onclick="applyFilters()" class="w-full px-4 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition text-sm">
+                            🔍 Filter anwenden
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Results List -->
+        <div id="doctorsList" class="space-y-4"></div>
+
+        <!-- Loading -->
+        <div id="loading" class="text-center py-20">
+            <div class="spinner mx-auto mb-4"></div>
+            <p class="text-gray-600 text-lg">Lade Therapeuten-Daten von GitHub...</p>
+        </div>
+
+        <!-- No Results -->
+        <div id="noResults" class="hidden text-center py-20">
+            <div class="text-6xl mb-4">😔</div>
+            <p class="text-2xl text-gray-700 font-semibold mb-2">Niemand gerade erreichbar</p>
+            <p class="text-gray-600">Versuche eine andere Ansicht oder komm später wieder!</p>
+        </div>
+
+        <!-- Footer -->
+        <footer class="text-center text-gray-600 text-sm mt-12 pb-8">
+            <p>Daten geladen von: <a href="https://github.com/lonbirdfriend/PsychotherapieSuche" target="_blank" class="text-indigo-600 hover:underline">GitHub</a></p>
+            <p class="mt-2">Letzte Aktualisierung: <span id="lastUpdate">-</span></p>
+        </footer>
+    </div>
+
+    <script>
+        // ===== KONFIGURATION =====
+        const GITHUB_JSON_URL = 'https://raw.githubusercontent.com/lonbirdfriend/PsychotherapieSuche/main/arzt_daten_gefiltert.json';
+        
+        // ===== GLOBALE VARIABLEN =====
+        let allDoctors = [];
+        let filteredDoctors = [];
+
+        // ===== ZEIT-FUNKTIONEN =====
+        function updateCurrentTime() {
+            const now = new Date();
+            const options = { 
+                weekday: 'long', 
+                day: 'numeric',
+                month: 'long',
+                year: 'numeric',
+                hour: '2-digit', 
+                minute: '2-digit'
+            };
+            document.getElementById('currentDateTime').textContent = 
+                now.toLocaleDateString('de-DE', options) + ' Uhr';
+        }
+
+        function getCurrentWeekday() {
+            const days = ['So.', 'Mo.', 'Di.', 'Mi.', 'Do.', 'Fr.', 'Sa.'];
+            return days[new Date().getDay()];
+        }
+
+        function getCurrentWeekdayKey() {
+            const keys = ['sonntag', 'montag', 'dienstag', 'mittwoch', 'donnerstag', 'freitag', 'samstag'];
+            return keys[new Date().getDay()];
+        }
+
+        function getSelectedDayKey() {
+            const dayFilter = document.getElementById('dayFilter').value;
+            if (dayFilter === 'heute') {
+                return getCurrentWeekdayKey();
+            }
+            return dayFilter;
+        }
+
+        function timeToMinutes(timeString) {
+            const [hours, minutes] = timeString.split(':').map(Number);
+            return hours * 60 + minutes;
+        }
+
+        function isTimeInRange(timeString, checkTime = null) {
+            if (!timeString) return false;
+            
+            const currentMinutes = checkTime !== null ? checkTime : 
+                new Date().getHours() * 60 + new Date().getMinutes();
+            
+            // Split multiple time ranges (e.g., "9:00-12:00, 15:00-18:00")
+            const ranges = timeString.split(',').map(t => t.trim());
+            
+            for (let range of ranges) {
+                const [start, end] = range.split('-');
+                if (!start || !end) continue;
+                
+                const startMinutes = timeToMinutes(start);
+                const endMinutes = timeToMinutes(end);
+                
+                if (currentMinutes >= startMinutes && currentMinutes <= endMinutes) {
+                    return true;
+                }
+            }
+            
+            return false;
+        }
+
+        function getFullTimeRange(doctor, dayKey) {
+            return doctor.telefonische_erreichbarkeit?.[dayKey] || null;
+        }
+
+        function getNextAvailableTime(doctor, dayKey) {
+            const todayTimes = doctor.telefonische_erreichbarkeit?.[dayKey];
+            
+            if (!todayTimes) return null;
+            
+            const now = new Date();
+            const currentMinutes = now.getHours() * 60 + now.getMinutes();
+            
+            const ranges = todayTimes.split(',').map(t => t.trim());
+            
+            for (let range of ranges) {
+                const [start] = range.split('-');
+                if (!start) continue;
+                
+                const startMinutes = timeToMinutes(start);
+                
+                if (startMinutes > currentMinutes) {
+                    return start;
+                }
+            }
+            
+            return null;
+        }
+
+        function getEarliestStartTime(doctor, dayKey) {
+            const times = doctor.telefonische_erreichbarkeit?.[dayKey];
+            if (!times) return 9999; // Sehr spät für Sortierung
+            
+            const ranges = times.split(',').map(t => t.trim());
+            let earliest = 9999;
+            
+            for (let range of ranges) {
+                const [start] = range.split('-');
+                if (start) {
+                    const startMinutes = timeToMinutes(start);
+                    if (startMinutes < earliest) {
+                        earliest = startMinutes;
+                    }
+                }
+            }
+            
+            return earliest;
+        }
+
+        function hasTimeOverlap(timeString, filterFrom, filterTo) {
+            if (!timeString) return false;
+            
+            const filterFromMinutes = timeToMinutes(filterFrom);
+            const filterToMinutes = timeToMinutes(filterTo);
+            
+            const ranges = timeString.split(',').map(t => t.trim());
+            
+            for (let range of ranges) {
+                const [start, end] = range.split('-');
+                if (!start || !end) continue;
+                
+                const startMinutes = timeToMinutes(start);
+                const endMinutes = timeToMinutes(end);
+                
+                // Check if ranges overlap
+                if (startMinutes <= filterToMinutes && endMinutes >= filterFromMinutes) {
+                    return true;
+                }
+            }
+            
+            return false;
+        }
+
+        function getDoctorStatus(doctor) {
+            const selectedDay = getSelectedDayKey();
+            const isToday = selectedDay === getCurrentWeekdayKey();
+            
+            const todayTimes = doctor.telefonische_erreichbarkeit?.[selectedDay];
+            
+            if (isToday && isTimeInRange(todayTimes)) {
+                return 'available-now';
+            } else if (todayTimes) {
+                return 'available-today';
+            }
+            
+            return 'closed';
+        }
+
+        // ===== DATEN LADEN =====
+        async function loadData() {
+            document.getElementById('loading').classList.remove('hidden');
+            document.getElementById('doctorsList').innerHTML = '';
+            document.getElementById('noResults').classList.add('hidden');
+
+            try {
+                const response = await fetch(GITHUB_JSON_URL);
+                if (!response.ok) throw new Error('GitHub-Daten konnten nicht geladen werden');
+                
+                allDoctors = await response.json();
+                
+                document.getElementById('loading').classList.add('hidden');
+                document.getElementById('lastUpdate').textContent = new Date().toLocaleString('de-DE');
+                
+                applyFilters();
+                
+            } catch (error) {
+                console.error('Fehler beim Laden:', error);
+                document.getElementById('loading').innerHTML = `
+                    <div class="text-red-600">
+                        <div class="text-6xl mb-4">⚠️</div>
+                        <p class="text-xl font-semibold mb-2">Fehler beim Laden der Daten</p>
+                        <p class="text-sm">${error.message}</p>
+                        <button onclick="loadData()" class="mt-4 px-6 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700">
+                            Erneut versuchen
+                        </button>
+                    </div>
+                `;
+            }
+        }
+
+        // ===== FILTER & SORTIERUNG =====
+        function applyFilters() {
+            const viewFilter = document.getElementById('viewFilter').value;
+            const distanceFilter = parseInt(document.getElementById('distanceFilter').value);
+            const selectedDay = getSelectedDayKey();
+            const isToday = selectedDay === getCurrentWeekdayKey();
+            
+            const timeFilterEnabled = document.getElementById('enableTimeFilter').checked;
+            const timeFrom = document.getElementById('timeFrom').value;
+            const timeTo = document.getElementById('timeTo').value;
+
+            // Filtern
+            filteredDoctors = allDoctors.filter(doctor => {
+                // Entfernung
+                if (doctor.entfernung_meter > distanceFilter) return false;
+
+                const dayTimes = doctor.telefonische_erreichbarkeit?.[selectedDay];
+                
+                // Zeitfilter
+                if (timeFilterEnabled && dayTimes) {
+                    if (!hasTimeOverlap(dayTimes, timeFrom, timeTo)) {
+                        return false;
+                    }
+                }
+
+                // Verfügbarkeit (nur wenn "heute" ausgewählt)
+                if (isToday) {
+                    const status = getDoctorStatus(doctor);
+                    if (viewFilter === 'jetzt' && status !== 'available-now') return false;
+                    if (viewFilter === 'heute' && status !== 'available-today' && status !== 'available-now') return false;
+                } else {
+                    // Anderer Tag: Zeige nur die mit Zeiten an diesem Tag
+                    if (viewFilter === 'jetzt' || viewFilter === 'heute') {
+                        if (!dayTimes) return false;
+                    }
+                }
+
+                return true;
+            });
+
+            // Sortieren
+            filteredDoctors.sort((a, b) => {
+                const statusA = getDoctorStatus(a);
+                const statusB = getDoctorStatus(b);
+                
+                // Priorität 1: available-now ganz oben
+                if (statusA === 'available-now' && statusB !== 'available-now') return -1;
+                if (statusA !== 'available-now' && statusB === 'available-now') return 1;
+                
+                // Priorität 2: Bei "available-today" nach frühester Startzeit sortieren
+                if (statusA === 'available-today' && statusB === 'available-today') {
+                    const earliestA = getEarliestStartTime(a, selectedDay);
+                    const earliestB = getEarliestStartTime(b, selectedDay);
+                    
+                    if (earliestA !== earliestB) {
+                        return earliestA - earliestB;
+                    }
+                }
+                
+                // Priorität 3: Bei gleichem Status nach Entfernung
+                return a.entfernung_meter - b.entfernung_meter;
+            });
+
+            renderDoctors();
+            updateStats();
+        }
+
+        // ===== ANZEIGE =====
+        function renderDoctors() {
+            const container = document.getElementById('doctorsList');
+            const noResults = document.getElementById('noResults');
+
+            if (filteredDoctors.length === 0) {
+                container.innerHTML = '';
+                noResults.classList.remove('hidden');
+            } else {
+                noResults.classList.add('hidden');
+                container.innerHTML = filteredDoctors.map((doctor, index) => createDoctorCard(doctor, index)).join('');
+            }
+        }
+
+        function createDoctorCard(doctor, index) {
+            const status = getDoctorStatus(doctor);
+            const selectedDay = getSelectedDayKey();
+            const dayLabel = document.getElementById('dayFilter').options[document.getElementById('dayFilter').selectedIndex].text;
+            const isToday = selectedDay === getCurrentWeekdayKey();
+            
+            const dayTimes = doctor.telefonische_erreichbarkeit?.[selectedDay] || '-';
+            
+            let statusBadge = '';
+            let statusClass = '';
+            let timeInfo = '';
+            
+            if (status === 'available-now' && isToday) {
+                statusBadge = '<span class="pulse-dot inline-block w-2 h-2 bg-green-500 rounded-full mr-2"></span><span class="font-bold text-green-800">JETZT ANRUFEN!</span>';
+                statusClass = 'border-green-300 bg-gradient-to-br from-green-50 to-emerald-50';
+                timeInfo = `<p class="text-sm text-green-700 font-semibold">📞 Telefonzeiten heute: ${dayTimes}</p>`;
+            } else if (status === 'available-today' || (!isToday && dayTimes !== '-')) {
+                if (isToday) {
+                    const nextTime = getNextAvailableTime(doctor, selectedDay);
+                    statusBadge = '<span class="font-semibold text-blue-800">Heute noch erreichbar</span>';
+                    statusClass = 'border-blue-200 bg-gradient-to-br from-blue-50 to-sky-50';
+                    timeInfo = nextTime 
+                        ? `<p class="text-sm text-blue-700">📞 Nächste Telefonzeit: <span class="font-bold">${nextTime} Uhr</span></p>
+                           <p class="text-xs text-blue-600 mt-1">Alle Zeiten heute: ${dayTimes}</p>`
+                        : `<p class="text-sm text-blue-700">📞 Telefonzeiten heute: ${dayTimes}</p>`;
+                } else {
+                    statusBadge = `<span class="font-semibold text-blue-800">Am ${dayLabel} erreichbar</span>`;
+                    statusClass = 'border-blue-200 bg-gradient-to-br from-blue-50 to-sky-50';
+                    const earliestMinutes = getEarliestStartTime(doctor, selectedDay);
+                    const earliestHours = Math.floor(earliestMinutes / 60);
+                    const earliestMins = earliestMinutes % 60;
+                    const earliestTime = `${earliestHours.toString().padStart(2, '0')}:${earliestMins.toString().padStart(2, '0')}`;
+                    timeInfo = `<p class="text-sm text-blue-700">📞 Ab <span class="font-bold">${earliestTime} Uhr</span></p>
+                                <p class="text-xs text-blue-600 mt-1">Alle Zeiten: ${dayTimes}</p>`;
+                }
+            } else {
+                statusBadge = `<span class="text-gray-600">Am ${dayLabel} nicht erreichbar</span>`;
+                statusClass = 'border-gray-200 bg-white';
+                timeInfo = `<p class="text-sm text-gray-600">📞 Am ${dayLabel} keine Telefonsprechzeit</p>`;
+            }
+
+            return `
+                <div class="doctor-card bg-white rounded-xl shadow-md hover:shadow-xl transition-all duration-300 p-6 border-2 ${statusClass}" style="animation-delay: ${index * 0.05}s">
+                    
+                    <!-- Header -->
+                    <div class="flex justify-between items-start mb-4">
+                        <div class="flex-1">
+                            <h3 class="text-2xl font-bold text-gray-900 mb-2">${doctor.name}</h3>
+                            <div class="flex items-center text-sm text-gray-600 mb-2">
+                                <span class="mr-3">👤 ${doctor.geschlecht === 'M' ? 'Herr' : doctor.geschlecht === 'W' ? 'Frau' : ''}</span>
+                                <span>📏 ${Math.round(doctor.entfernung_meter)}m entfernt</span>
+                            </div>
+                        </div>
+                        <div class="text-right">
+                            <div class="px-4 py-2 rounded-full text-sm ${status === 'available-now' && isToday ? 'bg-green-200' : dayTimes !== '-' ? 'bg-blue-200' : 'bg-gray-200'}">
+                                ${statusBadge}
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Zeit-Info -->
+                    <div class="mb-4 p-3 rounded-lg ${status === 'available-now' && isToday ? 'bg-green-100' : dayTimes !== '-' ? 'bg-blue-100' : 'bg-gray-100'}">
+                        ${timeInfo}
+                    </div>
+
+                    <!-- Kontakt & Adresse -->
+                    <div class="grid md:grid-cols-2 gap-4 mb-4">
+                        <div>
+                            <p class="text-xs text-gray-500 mb-1">📞 Kontakt</p>
+                            <p class="font-semibold text-lg">
+                                <a href="tel:${doctor.telefon}" class="text-indigo-600 hover:text-indigo-800 transition">
+                                    ${doctor.telefon}
+                                </a>
+                            </p>
+                            ${doctor.fax ? `<p class="text-xs text-gray-600 mt-1">Fax: ${doctor.fax}</p>` : ''}
+                            ${doctor.handy ? `<p class="text-xs text-gray-600">Mobil: ${doctor.handy}</p>` : ''}
+                        </div>
+                        <div>
+                            <p class="text-xs text-gray-500 mb-1">📍 Adresse</p>
+                            <p class="text-sm">
+                                ${doctor.adresse.strasse} ${doctor.adresse.hausnummer}<br>
+                                ${doctor.adresse.plz} ${doctor.adresse.ort}
+                            </p>
+                        </div>
+                    </div>
+
+                    <!-- Fachgebiete -->
+                    ${doctor.fachgebiete && doctor.fachgebiete.length > 0 ? `
+                        <div class="mb-4">
+                            <p class="text-xs text-gray-500 mb-2">🩺 Fachgebiete</p>
+                            <div class="flex flex-wrap gap-2">
+                                ${doctor.fachgebiete.map(fg => `
+                                    <span class="px-3 py-1 bg-indigo-100 text-indigo-800 rounded-full text-xs font-medium">
+                                        ${fg}
+                                    </span>
+                                `).join('')}
+                            </div>
+                        </div>
+                    ` : ''}
+
+                    <!-- Psychotherapie -->
+                    ${doctor.psychotherapie && doctor.psychotherapie.length > 0 ? `
+                        <div class="border-t border-gray-200 pt-4">
+                            <p class="text-xs text-gray-500 mb-2">💡 Psychotherapie-Angebot</p>
+                            <p class="text-xs text-gray-700">
+                                ${doctor.psychotherapie.join(' • ')}
+                            </p>
+                        </div>
+                    ` : ''}
+
+                    <!-- Alle Sprechzeiten (aufklappbar) -->
+                    <details class="mt-4 text-sm">
+                        <summary class="cursor-pointer text-indigo-600 hover:text-indigo-800 font-medium">
+                            📅 Alle Telefonzeiten anzeigen
+                        </summary>
+                        <div class="mt-3 grid grid-cols-2 md:grid-cols-3 gap-2 pl-4">
+                            ${['montag', 'dienstag', 'mittwoch', 'donnerstag', 'freitag'].map(day => {
+                                const time = doctor.telefonische_erreichbarkeit?.[day] || '-';
+                                const isSelectedDay = day === selectedDay;
+                                return `
+                                    <div class="${isSelectedDay ? 'font-bold text-indigo-600' : 'text-gray-700'}">
+                                        <span class="text-xs">${day.charAt(0).toUpperCase() + day.slice(1)}:</span><br>
+                                        <span class="text-xs">${time}</span>
+                                    </div>
+                                `;
+                            }).join('')}
+                        </div>
+                    </details>
+                </div>
+            `;
+        }
+
+        function updateStats() {
+            const selectedDay = getSelectedDayKey();
+            const isToday = selectedDay === getCurrentWeekdayKey();
+            
+            if (isToday) {
+                const availableNow = allDoctors.filter(d => getDoctorStatus(d) === 'available-now').length;
+                const availableToday = allDoctors.filter(d => getDoctorStatus(d) === 'available-today').length;
+
+                document.getElementById('availableNow').textContent = availableNow;
+                document.getElementById('availableToday').textContent = availableToday;
+            } else {
+                // Anderer Tag: Zeige Anzahl mit Zeiten an diesem Tag
+                const withTimes = allDoctors.filter(d => d.telefonische_erreichbarkeit?.[selectedDay]).length;
+                document.getElementById('availableNow').textContent = '-';
+                document.getElementById('availableToday').textContent = withTimes;
+            }
+            
+            document.getElementById('totalDoctors').textContent = allDoctors.length;
+        }
+
+        // ===== EVENT LISTENERS =====
+        document.getElementById('viewFilter').addEventListener('change', applyFilters);
+        document.getElementById('distanceFilter').addEventListener('change', applyFilters);
+        document.getElementById('dayFilter').addEventListener('change', applyFilters);
+        document.getElementById('enableTimeFilter').addEventListener('change', function() {
+            const inputs = document.getElementById('timeFilterInputs');
+            if (this.checked) {
+                inputs.style.display = 'grid';
+                applyFilters();
+            } else {
+                inputs.style.display = 'none';
+                applyFilters();
+            }
+        });
+        document.getElementById('timeFrom').addEventListener('change', applyFilters);
+        document.getElementById('timeTo').addEventListener('change', applyFilters);
+
+        // ===== INITIALISIERUNG =====
+        updateCurrentTime();
+        setInterval(updateCurrentTime, 60000);
+        loadData();
+    </script>
+</body>
+</html>
