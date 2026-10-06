@@ -1,579 +1,108 @@
 [
   {
-    "name": "Frank Schneider",
-    "telefon": "06131 5406270",
-    "handy": "0176 23257976",
-    "fax": "06131 5406271",
-    "geschlecht": "M",
-    "entfernung_meter": 592,
-    "adresse": {
-      "strasse": "Poststraße",
-      "hausnummer": "36",
-      "plz": "55126",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "11:30-11:55, 7:55-8:20",
-      "dienstag": "11:30-11:55, 7:55-8:20",
-      "mittwoch": "11:30-11:55, 7:55-8:20",
-      "donnerstag": "7:55-8:20",
-      "freitag": "7:55-8:20"
-    },
-    "psychotherapie": [
-      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Cathrin Ott",
-    "telefon": "06131 5406272",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 592,
-    "adresse": {
-      "strasse": "Poststraße",
-      "hausnummer": "36",
-      "plz": "55126",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "9:20-9:45",
-      "dienstag": "9:20-9:45",
-      "mittwoch": "9:20-9:45",
-      "donnerstag": "9:20-9:45",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Regine Maria Lilje",
-    "telefon": "06131 5406274",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 592,
-    "adresse": {
-      "strasse": "Poststraße",
-      "hausnummer": "36",
-      "plz": "55126",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "9:00-9:15",
-      "dienstag": "9:00-9:15",
-      "mittwoch": "9:00-9:50",
-      "donnerstag": "8:55-9:15",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Melanie Speiseder",
-    "telefon": "0157 32616084",
-    "handy": "0157 32616084",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 662,
-    "adresse": {
-      "strasse": "Am Obstmarkt",
-      "hausnummer": "4",
-      "plz": "55126",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": "9:00-10:40"
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Ortrud Nadler",
-    "telefon": "06131 472037",
-    "handy": "",
-    "fax": "06131 472041",
-    "geschlecht": "F",
-    "entfernung_meter": 859,
-    "adresse": {
-      "strasse": "Prunkgasse",
-      "hausnummer": "9",
-      "plz": "55126",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Hausarzt / Allgemeinmedizin",
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "15:00-18:00, 8:00-13:00",
-      "dienstag": "15:00-18:00, 8:00-13:00",
-      "mittwoch": "8:00-12:00",
-      "donnerstag": "15:00-18:00, 8:00-13:00",
-      "freitag": "8:00-14:00"
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Horst Kipphan",
-    "telefon": "06131 477095",
-    "handy": "",
-    "fax": "06131 473648",
-    "geschlecht": "M",
-    "entfernung_meter": 1454,
-    "adresse": {
-      "strasse": "Lilienweg",
-      "hausnummer": "9",
-      "plz": "55126",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Barbara Feigk",
-    "telefon": "06131 6081013",
-    "handy": "0176 24928892",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 2150,
-    "adresse": {
-      "strasse": "Alfred-Nobel-Straße",
-      "hausnummer": "37",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "8:30-8:55",
-      "dienstag": "",
-      "mittwoch": "12:00-12:25",
-      "donnerstag": "13:00-13:50",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Ulrike Schuck-Rowen",
-    "telefon": "06131 475077",
-    "handy": "0177 7814923",
-    "fax": "06131 475061",
-    "geschlecht": "F",
-    "entfernung_meter": 2150,
-    "adresse": {
-      "strasse": "Alfred-Nobel-Straße",
-      "hausnummer": "37",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "9:00-9:30",
-      "dienstag": "9:00-9:30",
-      "mittwoch": "9:00-9:30",
-      "donnerstag": "9:00-9:30",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Susanne Grab-Gand",
-    "telefon": "0176 55107026",
-    "handy": "0176 55107026",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 2525,
-    "adresse": {
-      "strasse": "An den Fuchslöchern",
-      "hausnummer": "1",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "12:00-12:50",
-      "mittwoch": "",
-      "donnerstag": "12:00-12:50",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Kinder und Jugendliche in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Maribel Kahl",
-    "telefon": "0176 23659016",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 2733,
-    "adresse": {
-      "strasse": "Binger Straße",
-      "hausnummer": "17",
-      "plz": "55257",
-      "ort": "Budenheim"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "14:00-15:40",
-      "mittwoch": "",
-      "donnerstag": "14:00-15:40",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Miriam Fiedler",
+    "name": "Sarah von Meister",
     "telefon": "",
-    "handy": "0155 63825652",
+    "handy": "",
     "fax": "",
     "geschlecht": "F",
-    "entfernung_meter": 2733,
+    "entfernung_meter": 64,
     "adresse": {
-      "strasse": "Binger Straße",
-      "hausnummer": "17",
-      "plz": "55257",
-      "ort": "Budenheim"
+      "strasse": "Marktstraße",
+      "hausnummer": "10",
+      "plz": "65183",
+      "ort": "Wiesbaden"
     },
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "11:30-11:55",
-      "mittwoch": "11:30-11:55",
-      "donnerstag": "11:30-11:55",
-      "freitag": "8:30-8:55"
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Britta Maria Schmitz",
-    "telefon": "06131 42000",
-    "handy": "",
-    "fax": "06131 41991",
-    "geschlecht": "F",
-    "entfernung_meter": 3199,
-    "adresse": {
-      "strasse": "Heidesheimer Straße",
-      "hausnummer": "26",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie",
-      "Kinderarzt / Kinderärztin"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
+    "telefonische_erreichbarkeit": {},
     "psychotherapie": [
       "Verhaltenstherapie für Kinder und Jugendliche in Einzeltherapie"
     ]
   },
   {
-    "name": "Eva Duven",
+    "name": "Nino Chelidze",
     "telefon": "",
-    "handy": "0151 23473544",
+    "handy": "",
     "fax": "",
     "geschlecht": "F",
-    "entfernung_meter": 3292,
+    "entfernung_meter": 81,
     "adresse": {
-      "strasse": "Kapellenstraße",
-      "hausnummer": "7",
-      "plz": "55124",
-      "ort": "Mainz"
+      "strasse": "Marktstraße",
+      "hausnummer": "11",
+      "plz": "65183",
+      "ort": "Wiesbaden"
     },
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "8:00-8:50",
-      "donnerstag": "9:00-9:50",
-      "freitag": ""
-    },
+    "telefonische_erreichbarkeit": {},
     "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
+      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
+      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
     ]
   },
   {
-    "name": "Ines Degenhardt",
+    "name": "Irmtraud Kiefer",
+    "telefon": "0611 3757572",
+    "handy": "",
+    "fax": "0611 376319",
+    "geschlecht": "F",
+    "entfernung_meter": 81,
+    "adresse": {
+      "strasse": "Marktstraße",
+      "hausnummer": "11",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Thomas Eikenbusch",
     "telefon": "",
-    "handy": "0178 7336175",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 3292,
-    "adresse": {
-      "strasse": "Kapellenstraße",
-      "hausnummer": "7",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "13:00-14:10",
-      "mittwoch": "13:00-14:10",
-      "donnerstag": "13:00-14:10",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Christina Dinter",
-    "telefon": "06131 8888984",
     "handy": "",
     "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 3292,
-    "adresse": {
-      "strasse": "Kapellenstraße",
-      "hausnummer": "7",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "13:00-13:50",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "11:00-11:50",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Nina Lück",
-    "telefon": "0157 56620357",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 3292,
-    "adresse": {
-      "strasse": "Kapellenstraße",
-      "hausnummer": "7",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "8:30-8:55",
-      "dienstag": "8:30-8:55",
-      "mittwoch": "8:30-8:55",
-      "donnerstag": "8:30-8:55",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Nida Güler",
-    "telefon": "0155 60127190",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 3331,
-    "adresse": {
-      "strasse": "Kapellenstraße",
-      "hausnummer": "31",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "12:00-14:00",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Martin Aßhoff",
-    "telefon": "06131 45584",
-    "handy": "",
-    "fax": "06131 45584",
     "geschlecht": "M",
-    "entfernung_meter": 3526,
+    "entfernung_meter": 81,
     "adresse": {
-      "strasse": "Kirchstraße",
-      "hausnummer": "61",
-      "plz": "55124",
-      "ort": "Mainz"
+      "strasse": "Marktstraße",
+      "hausnummer": "11",
+      "plz": "65183",
+      "ort": "Wiesbaden"
     },
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {
-      "montag": "11:50-12:40",
-      "dienstag": "11:50-12:40",
-      "mittwoch": "11:50-12:15",
-      "donnerstag": "11:50-12:40",
-      "freitag": "11:50-12:15"
-    },
+    "telefonische_erreichbarkeit": {},
     "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Ulrike Steinmüller-Lahham",
-    "telefon": "06132 57815",
-    "handy": "0157 73859089",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 3530,
-    "adresse": {
-      "strasse": "Mainzer Straße",
-      "hausnummer": "95",
-      "plz": "55262",
-      "ort": "Ingelheim"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "17:00-17:25, 7:45-9:00",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
+      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
       "Verhaltenstherapie für Erwachsene in Einzeltherapie"
     ]
   },
   {
-    "name": "Irina Anthi Tavlaridou",
-    "telefon": "0155 66278312",
+    "name": "Dr. Maria Meesmann",
+    "telefon": "0611 372758",
     "handy": "",
-    "fax": "",
+    "fax": "0611 376319",
     "geschlecht": "F",
-    "entfernung_meter": 3549,
+    "entfernung_meter": 81,
     "adresse": {
-      "strasse": "Hindemithstraße",
-      "hausnummer": "29",
-      "plz": "55127",
-      "ort": "Mainz"
+      "strasse": "Marktstraße",
+      "hausnummer": "11",
+      "plz": "65183",
+      "ort": "Wiesbaden"
     },
     "fachgebiete": [
       "Psychotherapie"
     ],
     "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "11:30-12:20",
-      "mittwoch": "",
-      "donnerstag": "11:30-12:20",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Katja Briem",
-    "telefon": "06131 6360152",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 3549,
-    "adresse": {
-      "strasse": "Hindemithstraße",
-      "hausnummer": "29",
-      "plz": "55127",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "12:30-13:30",
-      "mittwoch": "",
-      "donnerstag": "12:30-13:30",
-      "freitag": ""
+      "donnerstag": "09:30-12:30"
     },
     "psychotherapie": [
       "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
@@ -581,2222 +110,2413 @@
     ]
   },
   {
-    "name": "Demi Lehr",
-    "telefon": "06131 6360152",
+    "name": "Anne-Theresa Kegel",
+    "telefon": "",
     "handy": "",
     "fax": "",
     "geschlecht": "F",
-    "entfernung_meter": 3549,
+    "entfernung_meter": 104,
     "adresse": {
-      "strasse": "Hindemithstraße",
-      "hausnummer": "29",
-      "plz": "55127",
-      "ort": "Mainz"
+      "strasse": "Mauergasse",
+      "hausnummer": "13",
+      "plz": "65183",
+      "ort": "Wiesbaden"
     },
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {
-      "montag": "12:00-12:30",
-      "dienstag": "12:30-13:30",
-      "mittwoch": "",
-      "donnerstag": "12:30-13:30",
-      "freitag": ""
-    },
+    "telefonische_erreichbarkeit": {},
     "psychotherapie": [
       "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
     ]
   },
   {
-    "name": "Firozeh Aryaie-König",
+    "name": "Judith Lösch",
+    "telefon": "017632468212",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 104,
+    "adresse": {
+      "strasse": "Mauergasse",
+      "hausnummer": "13",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Julia Dorn",
     "telefon": "",
     "handy": "",
     "fax": "",
     "geschlecht": "F",
-    "entfernung_meter": 3555,
+    "entfernung_meter": 104,
+    "adresse": {
+      "strasse": "Mauergasse",
+      "hausnummer": "13",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
+      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Anna Miriam Mende",
+    "telefon": "0176 28 32 90 00",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 104,
+    "adresse": {
+      "strasse": "Mauergasse",
+      "hausnummer": "13",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Dr. Frank Auffermann",
+    "telefon": "0611 374929",
+    "handy": "",
+    "fax": "0611 309244",
+    "geschlecht": "M",
+    "entfernung_meter": 124,
     "adresse": {
       "strasse": "Grabenstraße",
-      "hausnummer": "55 A",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "13:00-13:50",
-      "mittwoch": "",
-      "donnerstag": "13:00-13:50",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Sabine Kaiser",
-    "telefon": "06131 5542504",
-    "handy": "",
-    "fax": "06131 5542506",
-    "geschlecht": "F",
-    "entfernung_meter": 3557,
-    "adresse": {
-      "strasse": "Breite Straße",
-      "hausnummer": "7",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "15:00-16:40",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Christiane Wurmthaler",
-    "telefon": "06131 45948",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 3557,
-    "adresse": {
-      "strasse": "Breite Straße",
-      "hausnummer": "7",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "11:00-12:40",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Vanessa Wolter",
-    "telefon": "0163 1477472",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 3746,
-    "adresse": {
-      "strasse": "Breite Straße",
-      "hausnummer": "29",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "13:00-13:50",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "12:00-12:50",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Dominik Wolf",
-    "telefon": "06131 2400580",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 3746,
-    "adresse": {
-      "strasse": "Breite Straße",
-      "hausnummer": "29",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": "7:30-9:15"
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Theresa Wolf",
-    "telefon": "06131 2400580",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 3746,
-    "adresse": {
-      "strasse": "Breite Straße",
-      "hausnummer": "29",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": "7:30-9:15"
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Susanne Helling",
-    "telefon": "06131 46272",
-    "handy": "",
-    "fax": "06131 44892",
-    "geschlecht": "F",
-    "entfernung_meter": 3764,
-    "adresse": {
-      "strasse": "Breite Straße",
-      "hausnummer": "31",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie",
-      "Frauenheilkunde"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Florentin Claudius Obier",
-    "telefon": "06131 2105040",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 3848,
-    "adresse": {
-      "strasse": "Breite Straße",
-      "hausnummer": "38",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "14:20-16:00",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Susanne Baulig",
-    "telefon": "01520 2690719",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 3851,
-    "adresse": {
-      "strasse": "Waldstraße",
-      "hausnummer": "6",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "12:20-14:00",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Antje Sachweh-Heimann",
-    "telefon": "06131 4983816",
-    "handy": "",
-    "fax": "06131 4983864",
-    "geschlecht": "F",
-    "entfernung_meter": 3864,
-    "adresse": {
-      "strasse": "Breite Straße",
-      "hausnummer": "40",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "12:00-13:40",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie",
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Antje Uelner",
-    "telefon": "0179 5423115",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 4048,
-    "adresse": {
-      "strasse": "Jahnstraße",
-      "hausnummer": "57",
-      "plz": "55257",
-      "ort": "Budenheim"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "9:00-9:50",
-      "mittwoch": "13:00-13:50",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
-      "Analytische Psychotherapie für Erwachsene in Gruppentherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Dagmar Krüger",
-    "telefon": "06131 366711",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 4063,
-    "adresse": {
-      "strasse": "Kurt-Schumacher-Straße",
-      "hausnummer": "41 C",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "15:30-17:10",
-      "mittwoch": "",
-      "donnerstag": "15:30-17:10",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Kinder und Jugendliche in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Ines Leu",
-    "telefon": "06131 4630487",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 4063,
-    "adresse": {
-      "strasse": "Kurt-Schumacher-Straße",
-      "hausnummer": "41 C",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "8:20-9:00",
-      "mittwoch": "",
-      "donnerstag": "8:20-9:00",
-      "freitag": "8:20-9:00"
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Sebastian Murken",
-    "telefon": "06131 9455394",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 4069,
-    "adresse": {
-      "strasse": "Kurt-Schumacher-Straße",
-      "hausnummer": "23",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "9:30-10:30",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "9:30-10:30",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
-      "Analytische Psychotherapie für Erwachsene in Gruppentherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Katja Sahiby-Werth",
-    "telefon": "0155 10363171",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 4244,
-    "adresse": {
-      "strasse": "Immelmannstraße",
-      "hausnummer": "5 A",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "9:00-10:00",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Franziska Lotz",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 4307,
-    "adresse": {
-      "strasse": "An der Krimm",
-      "hausnummer": "19 B",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie",
-      "Kinder- und Jugendpsychiatrie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Kinder und Jugendliche in Einzeltherapie",
-      "Verhaltenstherapie für Kinder und Jugendliche in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Elif Dogan",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 4307,
-    "adresse": {
-      "strasse": "An der Krimm",
-      "hausnummer": "19 B",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie",
-      "Kinder- und Jugendpsychiatrie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Verena Belinga Belinga",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 4307,
-    "adresse": {
-      "strasse": "An der Krimm",
-      "hausnummer": "19 B",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie",
-      "Kinder- und Jugendpsychiatrie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Kinder und Jugendliche in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Helga Duscha",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 4311,
-    "adresse": {
-      "strasse": "Philipp-Försch-Straße",
-      "hausnummer": "14",
-      "plz": "55257",
-      "ort": "Budenheim"
-    },
-    "fachgebiete": [
-      "Hausarzt / Allgemeinmedizin",
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Oliver Moehrke",
-    "telefon": "06139 290422",
-    "handy": "0151 17641031",
-    "fax": "06139 290445",
-    "geschlecht": "M",
-    "entfernung_meter": 4541,
-    "adresse": {
-      "strasse": "Erwin-Renth-Straße",
       "hausnummer": "1",
-      "plz": "55257",
-      "ort": "Budenheim"
+      "plz": "65183",
+      "ort": "Wiesbaden"
     },
     "fachgebiete": [
-      "Psychotherapie"
+      "Frauenarzt/-ärztin; Gynäkologie"
     ],
     "telefonische_erreichbarkeit": {
-      "montag": "13:00-13:30",
-      "dienstag": "13:00-13:30",
-      "mittwoch": "",
-      "donnerstag": "13:00-13:30",
-      "freitag": "13:00-13:30"
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Luciano Berti",
-    "telefon": "06131 366286",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 4858,
-    "adresse": {
-      "strasse": "Hinter den Wiesen",
-      "hausnummer": "26",
-      "plz": "55127",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "13:00-14:00",
-      "mittwoch": "",
-      "donnerstag": "13:00-14:00",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Steffi Mentz",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 5147,
-    "adresse": {
-      "strasse": "Haifa-Allee",
-      "hausnummer": "20",
-      "plz": "55128",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie",
-      "Kinderarzt / Kinderärztin"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Barbara Krauthauser",
-    "telefon": "0175 2921665",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 5200,
-    "adresse": {
-      "strasse": "Marienborner Straße",
-      "hausnummer": "41",
-      "plz": "55128",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "16:00-17:00",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "16:00-17:00",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie",
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Udo Porsch",
-    "telefon": "06131 9320200",
-    "handy": "",
-    "fax": "06131 9720853",
-    "geschlecht": "M",
-    "entfernung_meter": 5222,
-    "adresse": {
-      "strasse": "Am Fort Gonsenheim",
-      "hausnummer": "61 A",
-      "plz": "55122",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "13:00-13:50",
-      "mittwoch": "",
-      "donnerstag": "13:00-13:50",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Julia Köhler",
-    "telefon": "0157 58862004",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 5253,
-    "adresse": {
-      "strasse": "Feldstraße",
-      "hausnummer": "2",
-      "plz": "55270",
-      "ort": "Ober-Olm"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "14:00-16:00",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Jill Kaiser",
-    "telefon": "0175 7171943",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 5253,
-    "adresse": {
-      "strasse": "Feldstraße",
-      "hausnummer": "2",
-      "plz": "55270",
-      "ort": "Ober-Olm"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "12:00-13:40",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Christoph Lohmeier-Zenz",
-    "telefon": "06131 969561",
-    "handy": "",
-    "fax": "06131 969559",
-    "geschlecht": "M",
-    "entfernung_meter": 5310,
-    "adresse": {
-      "strasse": "Carl-Goerdeler-Straße",
-      "hausnummer": "21",
-      "plz": "55122",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "12:55-13:20",
-      "dienstag": "12:55-13:20",
-      "mittwoch": "12:55-13:20",
-      "donnerstag": "12:55-13:20",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Heike Wild",
-    "telefon": "06131 6988410",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 5333,
-    "adresse": {
-      "strasse": "Ida-von-Hahn-Straße",
-      "hausnummer": "1",
-      "plz": "55122",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "13:00-13:50",
-      "mittwoch": "",
-      "donnerstag": "13:00-13:50",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Judith Kappesser",
-    "telefon": "06131 5868439",
-    "handy": "0157 74537699",
-    "fax": "06131 5868439",
-    "geschlecht": "F",
-    "entfernung_meter": 5333,
-    "adresse": {
-      "strasse": "Ida-von-Hahn-Straße",
-      "hausnummer": "1",
-      "plz": "55122",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "13:00-13:25",
-      "donnerstag": "13:00-13:25",
-      "freitag": "13:00-13:50"
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Waltraud Westerath",
-    "telefon": "06131 222846",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 5383,
-    "adresse": {
-      "strasse": "Gonsbachgärten",
-      "hausnummer": "6",
-      "plz": "55124",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "12:00-13:00",
-      "donnerstag": "12:00-13:00",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Patricia Bernedo-Vogt",
-    "telefon": "06131 3334070",
-    "handy": "",
-    "fax": "06131 3334060",
-    "geschlecht": "F",
-    "entfernung_meter": 5438,
-    "adresse": {
-      "strasse": "Zaybachstraße",
-      "hausnummer": "7",
-      "plz": "55128",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Hausarzt / Allgemeinmedizin",
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Judith Butenhoff-Klages",
-    "telefon": "06131 366093",
-    "handy": "",
-    "fax": "06131 3334986",
-    "geschlecht": "F",
-    "entfernung_meter": 5527,
-    "adresse": {
-      "strasse": "Südring",
-      "hausnummer": "122",
-      "plz": "55128",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "9:00-10:00",
-      "mittwoch": "",
-      "donnerstag": "14:00-15:00",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Ulrich Klages",
-    "telefon": "06131 366091",
-    "handy": "",
-    "fax": "06131 3334986",
-    "geschlecht": "M",
-    "entfernung_meter": 5527,
-    "adresse": {
-      "strasse": "Südring",
-      "hausnummer": "122",
-      "plz": "55128",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "14:00-15:00",
-      "mittwoch": "",
-      "donnerstag": "14:00-15:00",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Ina Schickle",
-    "telefon": "0157 72626481",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 5551,
-    "adresse": {
-      "strasse": "Weingartenstraße",
-      "hausnummer": "23",
-      "plz": "55128",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "9:00-9:30",
-      "dienstag": "13:00-13:45",
-      "mittwoch": "9:00-9:30",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Cveta Doycheva",
-    "telefon": "0179 4321646",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 5576,
-    "adresse": {
-      "strasse": "Am Wenzen",
-      "hausnummer": "26",
-      "plz": "55120",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "19:10-20:00",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
-      "Analytische Psychotherapie für Erwachsene in Gruppentherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Caroline Marx",
-    "telefon": "0171 9389221",
-    "handy": "0171 9389221",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 5605,
-    "adresse": {
-      "strasse": "Adolf-Ernst-Schuth-Strasse",
-      "hausnummer": "16",
-      "plz": "55122",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "13:00-13:40",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "8:55-9:55",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Julia Bender-Hoch",
-    "telefon": "0155 65095060",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 5605,
-    "adresse": {
-      "strasse": "Adolf-Ernst-Schuth-Straße",
-      "hausnummer": "16",
-      "plz": "55122",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "13:00-14:00",
-      "donnerstag": "13:00-14:00",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Marjan Vakil",
-    "telefon": "06131 720660",
-    "handy": "",
-    "fax": "06131 364494",
-    "geschlecht": "F",
-    "entfernung_meter": 5616,
-    "adresse": {
-      "strasse": "Albert-Stohr-Straße",
-      "hausnummer": "3",
-      "plz": "55128",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Hausarzt / Allgemeinmedizin",
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Katrin Zardo",
-    "telefon": "",
-    "handy": "0176 31718633",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 5705,
-    "adresse": {
-      "strasse": "Rohrbergstraße",
-      "hausnummer": "23b",
-      "plz": "65343",
-      "ort": "Eltville am Rhein"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Caroline Irmisch",
-    "telefon": "",
-    "handy": "0176 5606827",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 5705,
-    "adresse": {
-      "strasse": "Rohrbergstraße",
-      "hausnummer": "23b",
-      "plz": "65343",
-      "ort": "Eltville am Rhein"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Judith Herzer",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 5705,
-    "adresse": {
-      "strasse": "Rohrbergstraße",
-      "hausnummer": "23b",
-      "plz": "65343",
-      "ort": "Eltville am Rhein"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Viktoria Martin",
-    "telefon": "",
-    "handy": "0177 2020140",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 5717,
-    "adresse": {
-      "strasse": "Leergasse",
-      "hausnummer": "5",
-      "plz": "65343",
-      "ort": "Eltville am Rhein"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Roland Stark",
-    "telefon": "06123 900786",
-    "handy": "",
-    "fax": "06123 900787",
-    "geschlecht": "M",
-    "entfernung_meter": 5718,
-    "adresse": {
-      "strasse": "Rheingauer Straße",
-      "hausnummer": "51",
-      "plz": "65343",
-      "ort": "Eltville am Rhein"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Irmgard Schild",
-    "telefon": "0613 69525565",
-    "handy": "0151 58856567",
-    "fax": "0613 69525566",
-    "geschlecht": "F",
-    "entfernung_meter": 5808,
-    "adresse": {
-      "strasse": "Wackernheimer Straße",
-      "hausnummer": "5",
-      "plz": "55270",
-      "ort": "Essenheim"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Rita Morgan",
-    "telefon": "",
-    "handy": "0176 70212025",
-    "fax": "06123 6019870",
-    "geschlecht": "F",
-    "entfernung_meter": 5838,
-    "adresse": {
-      "strasse": "Schwalbacher Straße",
-      "hausnummer": "3",
-      "plz": "65343",
-      "ort": "Eltville am Rhein"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Thorgerdur Frisch",
-    "telefon": "06123 999688",
-    "handy": "",
-    "fax": "06123 999687",
-    "geschlecht": "F",
-    "entfernung_meter": 5904,
-    "adresse": {
-      "strasse": "Kiliansring",
-      "hausnummer": "7",
-      "plz": "65343",
-      "ort": "Eltville am Rhein"
-    },
-    "fachgebiete": [
-      "Psychotherapie",
-      "Neurologie / Psychiatrie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Christoph Wolf",
-    "telefon": "06123 999688",
-    "handy": "",
-    "fax": "06123 999687",
-    "geschlecht": "M",
-    "entfernung_meter": 5904,
-    "adresse": {
-      "strasse": "Kiliansring",
-      "hausnummer": "7",
-      "plz": "65343",
-      "ort": "Eltville am Rhein"
-    },
-    "fachgebiete": [
-      "Psychotherapie",
-      "Neurologie / Psychiatrie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Charlotte Hohenschutz",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 5904,
-    "adresse": {
-      "strasse": "Kiliansring",
-      "hausnummer": "7",
-      "plz": "65343",
-      "ort": "Eltville am Rhein"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Janine Müller",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 5904,
-    "adresse": {
-      "strasse": "Am Grimmen",
-      "hausnummer": "20",
-      "plz": "65343",
-      "ort": "Eltville am Rhein"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Robert Scholz",
-    "telefon": "06123 702014",
-    "handy": "",
-    "fax": "06123 974589",
-    "geschlecht": "M",
-    "entfernung_meter": 5907,
-    "adresse": {
-      "strasse": "Kiliansring",
-      "hausnummer": "5",
-      "plz": "65343",
-      "ort": "Eltville am Rhein"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
-      "Analytische Psychotherapie für Erwachsene in Gruppentherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Eva Rossa",
-    "telefon": "06136 4686853",
-    "handy": "",
-    "fax": "06136 4687148",
-    "geschlecht": "F",
-    "entfernung_meter": 5931,
-    "adresse": {
-      "strasse": "Neubrunnenstraße",
-      "hausnummer": "13",
-      "plz": "55270",
-      "ort": "Essenheim"
-    },
-    "fachgebiete": [
-      "Hausarzt / Allgemeinmedizin",
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "12:00-13:00",
-      "dienstag": "",
-      "mittwoch": "9:00-10:00",
-      "donnerstag": "12:00-13:00",
-      "freitag": "9:00-10:00"
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Hans-Peter Baer",
-    "telefon": "",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 5940,
-    "adresse": {
-      "strasse": "Kiliansring",
-      "hausnummer": "12",
-      "plz": "65343",
-      "ort": "Eltville am Rhein"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Ann Christin Krämer-Heil",
-    "telefon": "06136 9261761",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 5958,
-    "adresse": {
-      "strasse": "Hechtsheimer Berg",
-      "hausnummer": "31",
-      "plz": "55270",
-      "ort": "Klein-Winternheim"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "7:30-8:00",
-      "dienstag": "7:30-8:00",
-      "mittwoch": "7:30-8:00",
-      "donnerstag": "7:30-8:00",
-      "freitag": "7:30-8:00"
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Birgit Zickgraf",
-    "telefon": "06131 7209659",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 5983,
-    "adresse": {
-      "strasse": "Backhaushohl",
-      "hausnummer": "15",
-      "plz": "55128",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "8:00-8:50",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "8:00-8:50",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Katrin Luchs",
-    "telefon": "06123 9994356",
-    "handy": "",
-    "fax": "06123 9994358",
-    "geschlecht": "F",
-    "entfernung_meter": 6009,
-    "adresse": {
-      "strasse": "Bahnhofstraße",
-      "hausnummer": "16",
-      "plz": "65396",
-      "ort": "Walluf"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Kerstin Lohmann",
-    "telefon": "06123 993071",
-    "handy": "",
-    "fax": "06123 9949899",
-    "geschlecht": "F",
-    "entfernung_meter": 6097,
-    "adresse": {
-      "strasse": "Riesengebirgsstraße",
-      "hausnummer": "13",
-      "plz": "65396",
-      "ort": "Walluf"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Armin Scheurich",
-    "telefon": "06131 176067",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 6202,
-    "adresse": {
-      "strasse": "Untere Zahlbacher Straße",
-      "hausnummer": "8",
-      "plz": "55131",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
+      "montag": "09:00-10:00",
+      "dienstag": "09:00-10:00",
+      "mittwoch": "09:00-10:00",
+      "donnerstag": "09:00-10:00",
+      "freitag": "09:00-10:00"
     },
     "psychotherapie": []
   },
   {
-    "name": "Renate Kappes",
-    "telefon": "06136 85616",
+    "name": "Dr. Antje Auffermann",
+    "telefon": "0611 374929",
     "handy": "",
-    "fax": "",
+    "fax": "0611 309244",
     "geschlecht": "F",
-    "entfernung_meter": 6272,
+    "entfernung_meter": 124,
     "adresse": {
-      "strasse": "Mönchswiese",
-      "hausnummer": "25",
-      "plz": "55270",
-      "ort": "Essenheim"
+      "strasse": "Grabenstraße",
+      "hausnummer": "1",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Frauenarzt/-ärztin; Gynäkologie"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "09:00-10:00",
+      "dienstag": "09:00-10:00",
+      "mittwoch": "09:00-10:00",
+      "donnerstag": "09:00-10:00",
+      "freitag": "09:00-10:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Sandra Reichenek",
+    "telefon": "0611 374929",
+    "handy": "",
+    "fax": "0611 309244",
+    "geschlecht": "F",
+    "entfernung_meter": 124,
+    "adresse": {
+      "strasse": "Grabenstraße",
+      "hausnummer": "1",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Frauenarzt/-ärztin; Gynäkologie"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "09:00-10:00",
+      "donnerstag": "15:00-16:00",
+      "freitag": "09:00-10:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Katja Schienke",
+    "telefon": "0611 20475039",
+    "handy": "",
+    "fax": "0611 20475038",
+    "geschlecht": "F",
+    "entfernung_meter": 145,
+    "adresse": {
+      "strasse": "Marktstraße",
+      "hausnummer": "21",
+      "plz": "65183",
+      "ort": "Wiesbaden"
     },
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {
-      "montag": "7:30-7:55",
-      "dienstag": "7:30-7:55",
-      "mittwoch": "7:30-7:55",
-      "donnerstag": "7:30-7:55",
-      "freitag": ""
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Dr. Marianne Kilburg",
+    "telefon": "0611 36082084",
+    "handy": "0157 88222936",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 151,
+    "adresse": {
+      "strasse": "Neugasse",
+      "hausnummer": "11",
+      "plz": "65183",
+      "ort": "Wiesbaden"
     },
+    "fachgebiete": [
+      "Hausarzt; Allgemeinmedizin"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Prof. Felix Koch",
+    "telefon": "0611 51010530",
+    "handy": "",
+    "fax": "0611 51010529",
+    "geschlecht": "M",
+    "entfernung_meter": 151,
+    "adresse": {
+      "strasse": "Marktplatz",
+      "hausnummer": "3",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Mund-Kiefer-Gesichtschirurgie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Christina Kubisch",
+    "telefon": "",
+    "handy": "0176 87730611",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 154,
+    "adresse": {
+      "strasse": "An den Quellen",
+      "hausnummer": "1",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
+      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Dr. Antje Lehnert",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 154,
+    "adresse": {
+      "strasse": "An den Quellen",
+      "hausnummer": "1",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Frauenarzt/-ärztin; Gynäkologie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. James Seabert",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 154,
+    "adresse": {
+      "strasse": "An den Quellen",
+      "hausnummer": "1",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Frauenarzt/-ärztin; Gynäkologie"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "12:00-13:00",
+      "dienstag": "12:00-13:00",
+      "mittwoch": "12:00-13:00",
+      "donnerstag": "11:00-12:00",
+      "freitag": "12:00-13:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Volkhard Hühn",
+    "telefon": "0611 844703",
+    "handy": "",
+    "fax": "0611 3334823",
+    "geschlecht": "M",
+    "entfernung_meter": 154,
+    "adresse": {
+      "strasse": "An den Quellen",
+      "hausnummer": "1",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Hausarzt; Allgemeinmedizin",
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Ferdinand Mitterlehner",
+    "telefon": "0611 36054112",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 154,
+    "adresse": {
+      "strasse": "An den Quellen",
+      "hausnummer": "1",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Gruppentherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Dr. Claudia Christ",
+    "telefon": "0611 36054112",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 154,
+    "adresse": {
+      "strasse": "An den Quellen",
+      "hausnummer": "1",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Jannis Hildebrandt",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 154,
+    "adresse": {
+      "strasse": "An den Quellen",
+      "hausnummer": "1",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Urologie"
+    ],
+    "telefonische_erreichbarkeit": {
+      "dienstag": "11:40-12:00",
+      "mittwoch": "11:40-12:00",
+      "donnerstag": "10:40-10:55",
+      "freitag": "11:40-12:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Magnus Volk",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 154,
+    "adresse": {
+      "strasse": "An den Quellen",
+      "hausnummer": "1",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Urologie"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "11:40-12:00",
+      "dienstag": "11:40-12:00",
+      "mittwoch": "11:40-12:00",
+      "donnerstag": "10:40-11:00",
+      "freitag": "11:40-12:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Tim Schykowski",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 154,
+    "adresse": {
+      "strasse": "An den Quellen",
+      "hausnummer": "1",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Urologie"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "11:40-12:00",
+      "dienstag": "11:40-12:00",
+      "mittwoch": "11:40-12:00",
+      "donnerstag": "08:00-10:50",
+      "freitag": "11:40-12:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Petra Timm-Lang",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 154,
+    "adresse": {
+      "strasse": "An den Quellen",
+      "hausnummer": "1",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Urologie"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "11:40-12:00",
+      "dienstag": "11:40-12:00",
+      "mittwoch": "11:40-12:00",
+      "donnerstag": "10:40-11:00",
+      "freitag": "11:40-12:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Matthias Claus",
+    "telefon": "0611 301527",
+    "handy": "",
+    "fax": "0611 376255",
+    "geschlecht": "M",
+    "entfernung_meter": 154,
+    "adresse": {
+      "strasse": "An den Quellen",
+      "hausnummer": "1",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Hausarzt; Allgemeinmedizin"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Markus Pott",
+    "telefon": "0611 301527",
+    "handy": "",
+    "fax": "0611 376255",
+    "geschlecht": "M",
+    "entfernung_meter": 154,
+    "adresse": {
+      "strasse": "An den Quellen",
+      "hausnummer": "1",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Hausarzt; Allgemeinmedizin"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Targol Voßkühler-Ranjbar",
+    "telefon": "0611 304437",
+    "handy": "",
+    "fax": "0611 371781",
+    "geschlecht": "F",
+    "entfernung_meter": 154,
+    "adresse": {
+      "strasse": "An den Quellen",
+      "hausnummer": "1",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Augenheilkunde"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Tiemo Kern",
+    "telefon": "0611 304437",
+    "handy": "",
+    "fax": "0611 371781",
+    "geschlecht": "M",
+    "entfernung_meter": 154,
+    "adresse": {
+      "strasse": "An den Quellen",
+      "hausnummer": "1",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Anästhesiologie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Sofia Freifrau von der Goltz",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 156,
+    "adresse": {
+      "strasse": "Neugasse",
+      "hausnummer": "9",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Hausarzt; Allgemeinmedizin"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Sara Prengel-Baumgartner",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 156,
+    "adresse": {
+      "strasse": "Neugasse",
+      "hausnummer": "9",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Hausarzt; Allgemeinmedizin"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Rainer Rippert",
+    "telefon": "0611 305098",
+    "handy": "",
+    "fax": "0611 305097",
+    "geschlecht": "M",
+    "entfernung_meter": 162,
+    "adresse": {
+      "strasse": "Marktstraße",
+      "hausnummer": "32",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Hausarzt; Allgemeinmedizin"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Salie Osman Achmet",
+    "telefon": "0611 372210",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 162,
+    "adresse": {
+      "strasse": "Marktstraße",
+      "hausnummer": "32",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Hals-Nasen-Ohrenheilkunde (HNO)"
+    ],
+    "telefonische_erreichbarkeit": {
+      "freitag": "09:00-12:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Meri Arakelyan",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 181,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "29",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Innere Medizin (fachärztlich)"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Petra Saar",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 181,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "29",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Innere Medizin (fachärztlich)"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Marion Löbel",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 181,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "29",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Innere Medizin (fachärztlich)"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Vicky Kyriazi",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 181,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "29",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Innere Medizin (fachärztlich)"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Katrin Köchel",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 181,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "29",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Innere Medizin (fachärztlich)"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Wolf Dieter Wörth",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 181,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "29",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Innere Medizin (fachärztlich)"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Ilka Bösenberg",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 181,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "29",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Innere Medizin (fachärztlich)"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Heiko Martin Lantzsch",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 181,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "29",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Innere Medizin (fachärztlich)"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Bernd Ditter",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 181,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "29",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Dr. Ines Nienhaus",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 181,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "29",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Hausarzt; Allgemeinmedizin"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Philipp Drechsel",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 181,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "29",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Hausarzt; Allgemeinmedizin"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Friedel-Markus Walter",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 181,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "29",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Hausarzt; Allgemeinmedizin"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Ulrich Thormann",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 181,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "29",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Chirurgie und Orthopädie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Katharina Teuteberg-Kley",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 181,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "29",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Chirurgie und Orthopädie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Dennis Wincheringer",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 181,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "29",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Chirurgie und Orthopädie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Philipp Wilde",
+    "telefon": "0611 992720",
+    "handy": "",
+    "fax": "0611 9927215",
+    "geschlecht": "M",
+    "entfernung_meter": 181,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "29",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Chirurgie und Orthopädie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Nina Schmidt-Horlohé",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 181,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "29",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Chirurgie und Orthopädie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Kay Hajo Schmidt-Horlohé",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 181,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "29",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Chirurgie und Orthopädie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Martina Wagner",
+    "telefon": "0611 307474",
+    "handy": "",
+    "fax": "0611 3081315",
+    "geschlecht": "F",
+    "entfernung_meter": 182,
+    "adresse": {
+      "strasse": "Marktstraße",
+      "hausnummer": "34",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Frauenarzt/-ärztin; Gynäkologie"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "08:00-10:00",
+      "dienstag": "08:00-10:00",
+      "donnerstag": "08:00-10:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Stephanie Steinhorst",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 188,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "31",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Augenheilkunde"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "09:00-10:00",
+      "dienstag": "09:00-10:00",
+      "mittwoch": "08:30-09:30",
+      "donnerstag": "09:00-10:00",
+      "freitag": "09:00-10:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Katharina Brucker",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 192,
+    "adresse": {
+      "strasse": "Mühlgasse",
+      "hausnummer": "17",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
     "psychotherapie": [
       "Verhaltenstherapie für Erwachsene in Einzeltherapie"
     ]
   },
   {
-    "name": "Thomas Reisinger",
-    "telefon": "061236019869",
+    "name": "Ana Saric",
+    "telefon": "",
     "handy": "",
     "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 6295,
-    "adresse": {
-      "strasse": "Taunusstraße",
-      "hausnummer": "22",
-      "plz": "65343",
-      "ort": "Eltville am Rhein"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Christoph Möbus",
-    "telefon": "06123 6019873",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "M",
-    "entfernung_meter": 6295,
-    "adresse": {
-      "strasse": "Taunusstraße",
-      "hausnummer": "22",
-      "plz": "65343",
-      "ort": "Eltville am Rhein"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
-  },
-  {
-    "name": "Gesine Dingkuhn",
-    "telefon": "06136 7668830",
-    "handy": "",
-    "fax": "06136 7668831",
     "geschlecht": "F",
-    "entfernung_meter": 6393,
+    "entfernung_meter": 192,
     "adresse": {
-      "strasse": "Brinkelweg",
-      "hausnummer": "4",
-      "plz": "55270",
-      "ort": "Essenheim"
+      "strasse": "Mühlgasse",
+      "hausnummer": "17",
+      "plz": "65183",
+      "ort": "Wiesbaden"
     },
     "fachgebiete": [
-      "Psychotherapie",
-      "Kinder- und Jugendpsychiatrie"
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
+      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Sophia Raus",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 192,
+    "adresse": {
+      "strasse": "Mühlgasse",
+      "hausnummer": "17",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Sina Ruwoldt",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 192,
+    "adresse": {
+      "strasse": "Mühlgasse",
+      "hausnummer": "17",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
+      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Hanna Ronge",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 192,
+    "adresse": {
+      "strasse": "Mühlgasse",
+      "hausnummer": "17",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
+      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Linda Krieger",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 192,
+    "adresse": {
+      "strasse": "Mühlgasse",
+      "hausnummer": "17",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
+      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Sarah Künzl",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 192,
+    "adresse": {
+      "strasse": "Mühlgasse",
+      "hausnummer": "17",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
+      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Dr. Clara Quetscher",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 192,
+    "adresse": {
+      "strasse": "Mühlgasse",
+      "hausnummer": "17",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Verhaltenstherapie für Kinder und Jugendliche in Einzeltherapie",
+      "Verhaltenstherapie für Kinder und Jugendliche in Gruppentherapie",
+      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
+      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Dr. Kristine Gemmeker",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 196,
+    "adresse": {
+      "strasse": "Marktstraße",
+      "hausnummer": "31",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Hausarzt; Allgemeinmedizin"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Julia Eckstein",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 201,
+    "adresse": {
+      "strasse": "Langgasse",
+      "hausnummer": "1",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
+      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Alexandra Kauss",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 201,
+    "adresse": {
+      "strasse": "Langgasse",
+      "hausnummer": "1",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Valérie Lauterbach",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 201,
+    "adresse": {
+      "strasse": "Langgasse",
+      "hausnummer": "1",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Christine Manke-Ünalan",
+    "telefon": "0611 97196558",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 201,
+    "adresse": {
+      "strasse": "Langgasse",
+      "hausnummer": "1",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Marco Thomas",
+    "telefon": "0611 9719995",
+    "handy": "0172 4628556",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 204,
+    "adresse": {
+      "strasse": "Wilhelmstraße",
+      "hausnummer": "34",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Thea Wolf-Carmesin",
+    "telefon": "",
+    "handy": "0151 41661044",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 204,
+    "adresse": {
+      "strasse": "Wilhelmstraße",
+      "hausnummer": "34",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
+      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Angelika Trabert",
+    "telefon": "0611 301960",
+    "handy": "",
+    "fax": "0611 3082732",
+    "geschlecht": "F",
+    "entfernung_meter": 207,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "14",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Anästhesiologie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Andreas Göbel",
+    "telefon": "0611 301960",
+    "handy": "",
+    "fax": "0611 3082732",
+    "geschlecht": "M",
+    "entfernung_meter": 207,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "14",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Chirurgie und Orthopädie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Sameh Akbik",
+    "telefon": "0611 301960",
+    "handy": "",
+    "fax": "0611 3082732",
+    "geschlecht": "M",
+    "entfernung_meter": 207,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "14",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Chirurgie und Orthopädie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Klaus Schlaefke",
+    "telefon": "0611 305484",
+    "handy": "",
+    "fax": "0611 370597",
+    "geschlecht": "M",
+    "entfernung_meter": 208,
+    "adresse": {
+      "strasse": "Wilhelmstraße",
+      "hausnummer": "40",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Augenheilkunde"
+    ],
+    "telefonische_erreichbarkeit": {
+      "dienstag": "09:15-11:15",
+      "mittwoch": "09:15-12:15"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Hakan Taspinar",
+    "telefon": "",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 208,
+    "adresse": {
+      "strasse": "Burgstraße",
+      "hausnummer": "6 - 8",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Hausarzt; Allgemeinmedizin"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Mohamed Amer",
+    "telefon": "0611 36029050",
+    "handy": "",
+    "fax": "0611 36029051",
+    "geschlecht": "M",
+    "entfernung_meter": 208,
+    "adresse": {
+      "strasse": "Burgstraße",
+      "hausnummer": "6 - 8",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Chirurgie und Orthopädie"
+    ],
+    "telefonische_erreichbarkeit": {
+      "dienstag": "10:00-11:00",
+      "donnerstag": "09:00-10:00",
+      "freitag": "09:00-11:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Andreas Schoppe",
+    "telefon": "0611 374559",
+    "handy": "",
+    "fax": "0611 333364",
+    "geschlecht": "M",
+    "entfernung_meter": 208,
+    "adresse": {
+      "strasse": "Burgstraße",
+      "hausnummer": "6-8",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Hals-Nasen-Ohrenheilkunde (HNO)"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "08:50-09:00, 09:50-10:00, 10:50-11:00, 11:50-12:00, 12:50-13:00, 15:50-16:00, 16:50-17:00, 17:50-18:00",
+      "dienstag": "08:50-09:00, 09:50-10:00, 10:50-11:00, 11:50-12:00, 12:50-13:00",
+      "mittwoch": "08:50-09:00, 09:50-10:00, 10:50-11:00, 11:50-12:00, 12:50-13:00",
+      "donnerstag": "09:50-10:00, 10:50-11:00, 11:50-12:00, 12:50-13:00, 15:50-16:00, 16:50-17:00, 17:50-18:00",
+      "freitag": "08:50-09:00, 09:50-10:00, 10:50-11:00, 11:50-12:00, 12:50-13:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Rüdiger Küppers",
+    "telefon": "0611 374559",
+    "handy": "",
+    "fax": "0611 333364",
+    "geschlecht": "M",
+    "entfernung_meter": 208,
+    "adresse": {
+      "strasse": "Burgstraße",
+      "hausnummer": "6-8",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Hals-Nasen-Ohrenheilkunde (HNO)"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "08:50-09:00, 09:50-10:00, 10:50-11:00, 11:50-12:00, 12:50-13:00, 15:50-16:00, 16:50-17:00, 17:50-18:00",
+      "dienstag": "08:50-09:00, 09:50-10:00, 10:50-11:00, 11:50-12:00, 12:50-13:00, 15:50-16:00, 16:50-17:00, 17:50-18:00",
+      "mittwoch": "08:50-09:00, 09:50-10:00, 10:50-11:00, 11:50-12:00, 12:50-13:10",
+      "donnerstag": "09:50-10:00, 10:50-11:00, 11:50-12:00, 12:50-13:00, 15:50-16:00, 16:50-17:00, 17:50-18:10"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Thomas Menzel",
+    "telefon": "0611 3417000",
+    "handy": "",
+    "fax": "0611 34170017",
+    "geschlecht": "M",
+    "entfernung_meter": 208,
+    "adresse": {
+      "strasse": "Burgstraße",
+      "hausnummer": "6-8",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Innere Medizin (fachärztlich)"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Florian Lang",
+    "telefon": "0611 3417000",
+    "handy": "",
+    "fax": "0611 34170017",
+    "geschlecht": "M",
+    "entfernung_meter": 208,
+    "adresse": {
+      "strasse": "Burgstraße",
+      "hausnummer": "6-8",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Innere Medizin (fachärztlich)"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Zisis Dimitriadis",
+    "telefon": "0611 3417000",
+    "handy": "",
+    "fax": "0611 34170017",
+    "geschlecht": "M",
+    "entfernung_meter": 208,
+    "adresse": {
+      "strasse": "Burgstraße",
+      "hausnummer": "6-8",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Innere Medizin (fachärztlich)"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Klaus Schlotthauer",
+    "telefon": "0611 3417000",
+    "handy": "",
+    "fax": "0611 34170017",
+    "geschlecht": "M",
+    "entfernung_meter": 208,
+    "adresse": {
+      "strasse": "Burgstraße",
+      "hausnummer": "6-8",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Innere Medizin (fachärztlich)"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Stefan Ott",
+    "telefon": "0611 335990",
+    "handy": "",
+    "fax": "0611 3359919",
+    "geschlecht": "M",
+    "entfernung_meter": 208,
+    "adresse": {
+      "strasse": "Burgstraße",
+      "hausnummer": "6-8",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Innere Medizin (fachärztlich)"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Thomas Hennig",
+    "telefon": "0611 335990",
+    "handy": "",
+    "fax": "0611 3359919",
+    "geschlecht": "M",
+    "entfernung_meter": 208,
+    "adresse": {
+      "strasse": "Burgstraße",
+      "hausnummer": "6-8",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Innere Medizin (fachärztlich)"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Angelika Pibernik",
+    "telefon": "0611 335990",
+    "handy": "",
+    "fax": "0611 3359919",
+    "geschlecht": "F",
+    "entfernung_meter": 208,
+    "adresse": {
+      "strasse": "Burgstraße",
+      "hausnummer": "6-8",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Innere Medizin (fachärztlich)"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Ralf Schneider",
+    "telefon": "0611 335990",
+    "handy": "",
+    "fax": "0611 3359919",
+    "geschlecht": "M",
+    "entfernung_meter": 208,
+    "adresse": {
+      "strasse": "Burgstraße",
+      "hausnummer": "6-8",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Innere Medizin (fachärztlich)"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Nicole Menzel",
+    "telefon": "0611 17078500",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 211,
+    "adresse": {
+      "strasse": "Wilhelmstraße",
+      "hausnummer": "30",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Chirurgie und Orthopädie"
+    ],
+    "telefonische_erreichbarkeit": {
+      "dienstag": "08:00-09:00",
+      "donnerstag": "08:00-09:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Marcus Egermann",
+    "telefon": "0611 17078500",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 211,
+    "adresse": {
+      "strasse": "Wilhelmstraße",
+      "hausnummer": "30",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Chirurgie und Orthopädie"
+    ],
+    "telefonische_erreichbarkeit": {
+      "mittwoch": "08:00-09:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Alexander Götze",
+    "telefon": "0611 17078500",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 211,
+    "adresse": {
+      "strasse": "Wilhelmstraße",
+      "hausnummer": "30",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Chirurgie und Orthopädie"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "08:00-09:00",
+      "donnerstag": "08:00-09:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Prof. Bruno Gladbach",
+    "telefon": "0611 17078500",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 211,
+    "adresse": {
+      "strasse": "Wilhelmstraße",
+      "hausnummer": "30",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Chirurgie und Orthopädie"
+    ],
+    "telefonische_erreichbarkeit": {
+      "donnerstag": "08:00-09:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Alexandra Hund",
+    "telefon": "0611 17078500",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "F",
+    "entfernung_meter": 211,
+    "adresse": {
+      "strasse": "Wilhelmstraße",
+      "hausnummer": "30",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Chirurgie und Orthopädie"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "08:00-09:00",
+      "dienstag": "08:00-09:00",
+      "mittwoch": "08:00-09:00",
+      "donnerstag": "08:00-09:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Prof. Gian Max Salzmann",
+    "telefon": "0611 17078500",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 211,
+    "adresse": {
+      "strasse": "Wilhelmstraße",
+      "hausnummer": "30",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Chirurgie und Orthopädie"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "08:00-09:00",
+      "dienstag": "08:00-09:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Prof. Edgar-Klaus Roth",
+    "telefon": "0611 17078500",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 211,
+    "adresse": {
+      "strasse": "Wilhelmstraße",
+      "hausnummer": "30",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Chirurgie und Orthopädie"
+    ],
+    "telefonische_erreichbarkeit": {
+      "freitag": "08:00-09:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Nina Mehringer",
+    "telefon": "0611 900170",
+    "handy": "",
+    "fax": "0611 95474420",
+    "geschlecht": "F",
+    "entfernung_meter": 216,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "12",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Radiologie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Birgit Vorndran",
+    "telefon": "0611 900170",
+    "handy": "",
+    "fax": "0611 95474420",
+    "geschlecht": "F",
+    "entfernung_meter": 216,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "12",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Radiologie"
     ],
     "telefonische_erreichbarkeit": {
       "montag": "11:00-12:00",
-      "dienstag": "10:30-12:30, 11:00-12:00",
+      "dienstag": "11:00-12:00",
       "mittwoch": "11:00-12:00",
-      "donnerstag": "10:30-12:30, 11:00-12:00",
+      "donnerstag": "11:00-12:00",
       "freitag": "11:00-12:00"
     },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Einzeltherapie"
-    ]
+    "psychotherapie": []
   },
   {
-    "name": "Francisca Castano Munoz",
-    "telefon": "06131 679852",
+    "name": "Ewa Ghareh Hassanloo",
+    "telefon": "0611 900170",
     "handy": "",
-    "fax": "",
+    "fax": "0611 95474420",
     "geschlecht": "F",
-    "entfernung_meter": 6418,
+    "entfernung_meter": 216,
     "adresse": {
-      "strasse": "Lindenschmitstraße",
-      "hausnummer": "59",
-      "plz": "55131",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "13:50-14:15",
-      "dienstag": "13:50-14:15",
-      "mittwoch": "13:50-14:50",
-      "donnerstag": "14:40-15:45",
-      "freitag": "13:50-14:15"
-    },
-    "psychotherapie": [
-      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Judith Engel",
-    "telefon": "06132 3237",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 6603,
-    "adresse": {
-      "strasse": "Steingasse",
-      "hausnummer": "15",
-      "plz": "55218",
-      "ort": "Ingelheim"
-    },
-    "fachgebiete": [
-      "Hausarzt / Allgemeinmedizin",
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "9:00-11:00",
-      "dienstag": "10:00-11:00",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": "9:00-10:00"
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Franca Roth",
-    "telefon": "06123 61137",
-    "handy": "",
-    "fax": "06123 2881",
-    "geschlecht": "F",
-    "entfernung_meter": 6713,
-    "adresse": {
-      "strasse": "Waldstraße",
-      "hausnummer": "36",
-      "plz": "65343",
-      "ort": "Eltville am Rhein"
-    },
-    "fachgebiete": [
-      "Hausarzt / Allgemeinmedizin",
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Anne-Susanne Braun",
-    "telefon": "06131 6101924",
-    "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 6728,
-    "adresse": {
-      "strasse": "Annabergstraße",
+      "strasse": "Friedrichstraße",
       "hausnummer": "12",
-      "plz": "55131",
-      "ort": "Mainz"
+      "plz": "65185",
+      "ort": "Wiesbaden"
     },
     "fachgebiete": [
-      "Psychotherapie"
+      "Radiologie"
     ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "14:00-15:00",
-      "mittwoch": "14:00-15:00",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
   },
   {
-    "name": "Liane Scheer",
-    "telefon": "0151 20689949",
+    "name": "Dr. Samira Sepehr Rezai",
+    "telefon": "0611 900170",
+    "handy": "",
+    "fax": "0611 95474420",
+    "geschlecht": "F",
+    "entfernung_meter": 216,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "12",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Nuklearmedizin"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "11:00-12:00",
+      "dienstag": "11:00-12:00",
+      "mittwoch": "11:00-12:00",
+      "donnerstag": "11:00-12:00",
+      "freitag": "11:00-12:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Elena Hellmuth",
+    "telefon": "0611 900170",
+    "handy": "",
+    "fax": "0611 95474420",
+    "geschlecht": "F",
+    "entfernung_meter": 216,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "12",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Nuklearmedizin"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Christoph Bultmann",
+    "telefon": "0611 900170",
+    "handy": "",
+    "fax": "0611 95474420",
+    "geschlecht": "M",
+    "entfernung_meter": 216,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "12",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Labormedizin / Mikrobiologie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Christopher Ahlers",
+    "telefon": "0611 900170",
+    "handy": "",
+    "fax": "0611 95474420",
+    "geschlecht": "M",
+    "entfernung_meter": 216,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "12",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Radiologie"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "11:00-12:00",
+      "dienstag": "11:00-12:00",
+      "mittwoch": "11:00-12:00",
+      "donnerstag": "11:00-12:00",
+      "freitag": "11:00-12:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Ngan Phuong Truong",
+    "telefon": "0611 900170",
+    "handy": "",
+    "fax": "0611 95474420",
+    "geschlecht": "F",
+    "entfernung_meter": 216,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "12",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Nuklearmedizin"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "11:00-12:00",
+      "dienstag": "11:00-12:00",
+      "mittwoch": "11:00-12:00",
+      "donnerstag": "11:00-12:00",
+      "freitag": "11:00-12:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Christian Lückerath",
+    "telefon": "0611 900170",
+    "handy": "",
+    "fax": "0611 95474420",
+    "geschlecht": "M",
+    "entfernung_meter": 216,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "12",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Radiologie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Stefan Käshammer",
+    "telefon": "0611 900170",
+    "handy": "",
+    "fax": "0611 95474420",
+    "geschlecht": "M",
+    "entfernung_meter": 216,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "12",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Nuklearmedizin"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Jorge Hoppner Ganen",
+    "telefon": "0611 900170",
+    "handy": "",
+    "fax": "0611 95474420",
+    "geschlecht": "M",
+    "entfernung_meter": 216,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "12",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Nuklearmedizin"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Hubertus von Zitzewitz",
+    "telefon": "0611 900170",
+    "handy": "",
+    "fax": "0611 95474420",
+    "geschlecht": "M",
+    "entfernung_meter": 216,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "12",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Radiologie"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "11:00-12:00",
+      "dienstag": "11:00-12:00",
+      "mittwoch": "11:00-12:00",
+      "donnerstag": "11:00-12:00",
+      "freitag": "11:00-12:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Matthias Troglauer",
+    "telefon": "0611 900170",
+    "handy": "",
+    "fax": "0611 95474420",
+    "geschlecht": "M",
+    "entfernung_meter": 216,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "12",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Nuklearmedizin"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "11:00-12:00",
+      "dienstag": "11:00-12:00",
+      "mittwoch": "11:00-12:00",
+      "donnerstag": "11:00-12:00",
+      "freitag": "11:00-12:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Stefanie Bitschnau",
+    "telefon": "0611 900170",
+    "handy": "",
+    "fax": "0611 95474420",
+    "geschlecht": "F",
+    "entfernung_meter": 216,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "12",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Radiologie"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "11:00-12:00",
+      "dienstag": "11:00-12:00",
+      "mittwoch": "11:00-12:00",
+      "donnerstag": "11:00-12:00",
+      "freitag": "11:00-12:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Prof. Christian Menzel",
+    "telefon": "0611 900170",
+    "handy": "",
+    "fax": "0611 95474420",
+    "geschlecht": "M",
+    "entfernung_meter": 216,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "12",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Nuklearmedizin"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Jochen Mundschenk",
+    "telefon": "0611 900170",
+    "handy": "",
+    "fax": "0611 95474420",
+    "geschlecht": "M",
+    "entfernung_meter": 216,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "12",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Nuklearmedizin"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "11:00-12:00",
+      "dienstag": "11:00-12:00",
+      "mittwoch": "11:00-12:00",
+      "donnerstag": "11:00-12:00",
+      "freitag": "11:00-12:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Udo Trost",
+    "telefon": "0611 900170",
+    "handy": "",
+    "fax": "0611 95474420",
+    "geschlecht": "M",
+    "entfernung_meter": 216,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "12",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Radiologie"
+    ],
+    "telefonische_erreichbarkeit": {
+      "montag": "11:00-12:00",
+      "dienstag": "11:00-12:00",
+      "mittwoch": "11:00-12:00",
+      "donnerstag": "11:00-12:00",
+      "freitag": "11:00-12:00"
+    },
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Silvia Oddo-Sommerfeld",
+    "telefon": "0611 6010117",
     "handy": "",
     "fax": "",
     "geschlecht": "F",
-    "entfernung_meter": 6790,
+    "entfernung_meter": 222,
     "adresse": {
-      "strasse": "Am Klingenweg",
-      "hausnummer": "6 A",
-      "plz": "65396",
-      "ort": "Walluf"
+      "strasse": "Friedrichstraße",
+      "hausnummer": "39",
+      "plz": "65185",
+      "ort": "Wiesbaden"
     },
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
+    "telefonische_erreichbarkeit": {},
     "psychotherapie": [
       "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
     ]
   },
   {
-    "name": "Dorothee de Mülder",
-    "telefon": "06123 9348844",
+    "name": "Miriam Reid",
+    "telefon": "0611 691180",
     "handy": "",
-    "fax": "06123 9348855",
+    "fax": "0611 691177",
     "geschlecht": "F",
-    "entfernung_meter": 6820,
+    "entfernung_meter": 222,
     "adresse": {
-      "strasse": "Taunusstraße",
-      "hausnummer": "21",
-      "plz": "65346",
-      "ort": "Eltville am Rhein"
+      "strasse": "Friedrichstraße",
+      "hausnummer": "39",
+      "plz": "65185",
+      "ort": "Wiesbaden"
     },
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
+    "telefonische_erreichbarkeit": {},
     "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
     ]
   },
   {
-    "name": "Gregor de Mülder",
+    "name": "Dr. Alexander Cherdron",
+    "telefon": "0611 691180",
+    "handy": "",
+    "fax": "0611 691177",
+    "geschlecht": "M",
+    "entfernung_meter": 222,
+    "adresse": {
+      "strasse": "Friedrichstraße",
+      "hausnummer": "39",
+      "plz": "65185",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Psychotherapie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": [
+      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
+      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
+    ]
+  },
+  {
+    "name": "Dr. Sultan Afghanyar",
+    "telefon": "0611 3415339",
+    "handy": "",
+    "fax": "",
+    "geschlecht": "M",
+    "entfernung_meter": 224,
+    "adresse": {
+      "strasse": "An den Quellen",
+      "hausnummer": "10",
+      "plz": "65183",
+      "ort": "Wiesbaden"
+    },
+    "fachgebiete": [
+      "Anästhesiologie"
+    ],
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
+  },
+  {
+    "name": "Dr. Tammo Quitzau",
     "telefon": "",
     "handy": "",
     "fax": "",
     "geschlecht": "M",
-    "entfernung_meter": 6820,
+    "entfernung_meter": 224,
     "adresse": {
-      "strasse": "Taunusstraße",
-      "hausnummer": "21",
-      "plz": "65346",
-      "ort": "Eltville am Rhein"
+      "strasse": "An den Quellen",
+      "hausnummer": "10",
+      "plz": "65183",
+      "ort": "Wiesbaden"
     },
     "fachgebiete": [
-      "Psychotherapie"
+      "Hausarzt; Allgemeinmedizin"
     ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
   },
   {
-    "name": "Antonia Lutterbach",
-    "telefon": "0160 93188514",
+    "name": "Dr. Gundula Sümenicht-Böhm",
+    "telefon": "0611 301635",
     "handy": "",
-    "fax": "",
+    "fax": "0611 301636",
     "geschlecht": "F",
-    "entfernung_meter": 6846,
+    "entfernung_meter": 224,
     "adresse": {
-      "strasse": "Aspeltstraße",
-      "hausnummer": "9",
-      "plz": "55118",
-      "ort": "Mainz"
+      "strasse": "An den Quellen",
+      "hausnummer": "10",
+      "plz": "65183",
+      "ort": "Wiesbaden"
     },
     "fachgebiete": [
-      "Psychotherapie"
+      "Kinderarzt/-ärztin"
     ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "11:00-11:50",
-      "donnerstag": "",
-      "freitag": "14:00-14:50"
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
   },
   {
-    "name": "Kira Bracker",
-    "telefon": "06131 2118464",
-    "handy": "0176 36341747",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 6900,
-    "adresse": {
-      "strasse": "Gleiwitzer Straße",
-      "hausnummer": "5 B",
-      "plz": "55131",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "11:30-12:30",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Silva Glindemann",
-    "telefon": "06131 2118464",
+    "name": "Dr. Doris Popp",
+    "telefon": "0611 301635",
     "handy": "",
-    "fax": "",
+    "fax": "0611 301636",
     "geschlecht": "F",
-    "entfernung_meter": 6900,
+    "entfernung_meter": 224,
     "adresse": {
-      "strasse": "Gleiwitzer Straße",
-      "hausnummer": "5 B",
-      "plz": "55131",
-      "ort": "Mainz"
+      "strasse": "An den Quellen",
+      "hausnummer": "10",
+      "plz": "65183",
+      "ort": "Wiesbaden"
     },
     "fachgebiete": [
-      "Psychotherapie"
+      "Kinderarzt/-ärztin"
     ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "14:00-16:00",
-      "donnerstag": "14:00-15:00",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie"
-    ]
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
   },
   {
-    "name": "Oliver Korz",
-    "telefon": "06131 2171692",
+    "name": "Dr. Ashkabous Emadi",
+    "telefon": "0611 440915",
     "handy": "",
-    "fax": "",
+    "fax": "0611 47678",
     "geschlecht": "M",
-    "entfernung_meter": 6900,
+    "entfernung_meter": 224,
     "adresse": {
-      "strasse": "Gleiwitzer Straße",
-      "hausnummer": "5 B",
-      "plz": "55131",
-      "ort": "Mainz"
+      "strasse": "An den Quellen",
+      "hausnummer": "10",
+      "plz": "65183",
+      "ort": "Wiesbaden"
     },
     "fachgebiete": [
-      "Psychotherapie"
+      "Chirurgie und Orthopädie"
     ],
     "telefonische_erreichbarkeit": {
-      "montag": "14:00-14:50",
-      "dienstag": "",
-      "mittwoch": "14:00-14:50",
-      "donnerstag": "",
-      "freitag": ""
+      "dienstag": "14:30-17:00",
+      "donnerstag": "15:30-18:00"
     },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie"
-    ]
+    "psychotherapie": []
   },
   {
-    "name": "Lisa Kiss",
-    "telefon": "0176 24635541",
+    "name": "Dr. Dagmar Wenz",
+    "telefon": "0611 50595200",
     "handy": "",
-    "fax": "",
+    "fax": "0611 50595252",
     "geschlecht": "F",
-    "entfernung_meter": 6900,
+    "entfernung_meter": 224,
     "adresse": {
-      "strasse": "Gleiwitzer Straße",
-      "hausnummer": "5 B",
-      "plz": "55131",
-      "ort": "Mainz"
+      "strasse": "An den Quellen",
+      "hausnummer": "10",
+      "plz": "65183",
+      "ort": "Wiesbaden"
     },
     "fachgebiete": [
-      "Psychotherapie"
+      "Hausarzt; Allgemeinmedizin"
     ],
-    "telefonische_erreichbarkeit": {
-      "montag": "12:00-12:50",
-      "dienstag": "12:00-12:50",
-      "mittwoch": "12:00-12:50",
-      "donnerstag": "12:00-12:50",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Verhaltenstherapie für Erwachsene in Einzeltherapie",
-      "Verhaltenstherapie für Erwachsene in Gruppentherapie",
-      "Verhaltenstherapie für Kinder und Jugendliche in Einzeltherapie"
-    ]
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
   },
   {
-    "name": "Gesa-Marie Schmidt",
-    "telefon": "06131 5011432",
+    "name": "Dr. Alexa Krambeck",
+    "telefon": "0611 50595200",
     "handy": "",
-    "fax": "",
+    "fax": "0611 50595252",
     "geschlecht": "F",
-    "entfernung_meter": 6905,
+    "entfernung_meter": 224,
     "adresse": {
-      "strasse": "Gleiwitzer Straße",
-      "hausnummer": "5 A",
-      "plz": "55131",
-      "ort": "Mainz"
+      "strasse": "An den Quellen",
+      "hausnummer": "10",
+      "plz": "65183",
+      "ort": "Wiesbaden"
     },
     "fachgebiete": [
-      "Psychotherapie",
-      "Neurologie / Psychiatrie"
+      "Hals-Nasen-Ohrenheilkunde (HNO)"
     ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "9:00-12:00",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Einzeltherapie"
-    ]
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
   },
   {
-    "name": "Sarah Neus",
-    "telefon": "",
-    "handy": "0176 22526203",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 6905,
-    "adresse": {
-      "strasse": "Gleiwitzer Straße",
-      "hausnummer": "5 A",
-      "plz": "55131",
-      "ort": "Mainz"
-    },
-    "fachgebiete": [
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "9:00-10:40",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Claudius Scherb",
-    "telefon": "06131 223817",
+    "name": "Dr. Jan Hagemann",
+    "telefon": "0611 50595200",
     "handy": "",
-    "fax": "06131 233529",
+    "fax": "0611 50595252",
     "geschlecht": "M",
-    "entfernung_meter": 6916,
+    "entfernung_meter": 224,
     "adresse": {
-      "strasse": "Erthalstraße",
-      "hausnummer": "1",
-      "plz": "55118",
-      "ort": "Mainz"
+      "strasse": "An den Quellen",
+      "hausnummer": "10",
+      "plz": "65183",
+      "ort": "Wiesbaden"
     },
     "fachgebiete": [
-      "Psychotherapie",
-      "Neurologie / Psychiatrie"
+      "Hals-Nasen-Ohrenheilkunde (HNO)"
     ],
-    "telefonische_erreichbarkeit": {
-      "montag": "10:00-14:00",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
-      "Analytische Psychotherapie für Erwachsene in Gruppentherapie",
-      "Analytische Psychotherapie für Kinder und Jugendliche in Einzeltherapie",
-      "Analytische Psychotherapie für Kinder und Jugendliche in Gruppentherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Gruppentherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Kinder und Jugendliche in Gruppentherapie"
-    ]
+    "telefonische_erreichbarkeit": {},
+    "psychotherapie": []
   },
   {
-    "name": "Ibolya Kállai",
-    "telefon": "0176 42007420",
+    "name": "Prof. Ludger Klimek",
+    "telefon": "0611 50595200",
     "handy": "",
-    "fax": "",
-    "geschlecht": "F",
-    "entfernung_meter": 6916,
+    "fax": "0611 50595252",
+    "geschlecht": "M",
+    "entfernung_meter": 224,
     "adresse": {
-      "strasse": "Erthalstraße",
-      "hausnummer": "1",
-      "plz": "55118",
-      "ort": "Mainz"
+      "strasse": "An den Quellen",
+      "hausnummer": "10",
+      "plz": "65183",
+      "ort": "Wiesbaden"
     },
     "fachgebiete": [
-      "Psychotherapie"
+      "Hals-Nasen-Ohrenheilkunde (HNO)"
     ],
     "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "17:00-18:00",
-      "mittwoch": "13:00-14:00",
-      "donnerstag": "",
-      "freitag": ""
+      "mittwoch": "08:00-13:00"
     },
-    "psychotherapie": [
-      "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
-  },
-  {
-    "name": "Corinna Kaulfuß",
-    "telefon": "06123 902910",
-    "handy": "",
-    "fax": "06123 902911",
-    "geschlecht": "F",
-    "entfernung_meter": 6925,
-    "adresse": {
-      "strasse": "Ringstraße",
-      "hausnummer": "33",
-      "plz": "65346",
-      "ort": "Eltville am Rhein"
-    },
-    "fachgebiete": [
-      "Hausarzt / Allgemeinmedizin",
-      "Psychotherapie"
-    ],
-    "telefonische_erreichbarkeit": {
-      "montag": "",
-      "dienstag": "",
-      "mittwoch": "",
-      "donnerstag": "",
-      "freitag": ""
-    },
-    "psychotherapie": [
-      "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
-    ]
+    "psychotherapie": []
   }
 ]
