@@ -15,7 +15,13 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "montag": "08:00-13:00, 14:00-18:00",
+      "dienstag": "08:00-14:00",
+      "mittwoch": "08:00-13:00, 14:00-18:00",
+      "donnerstag": "08:00-13:00, 14:00-18:00",
+      "freitag": "09:00-13:00, 14:00-17:00"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
       "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
@@ -37,7 +43,13 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "montag": "15:00-20:00",
+      "dienstag": "15:00-20:30",
+      "mittwoch": "15:00-20:30",
+      "donnerstag": "15:00-20:30",
+      "freitag": "15:00-20:00"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
       "Analytische Psychotherapie für Erwachsene in Gruppentherapie",
@@ -61,7 +73,13 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "montag": "14:00-18:00",
+      "dienstag": "08:00-12:00, 14:00-18:00",
+      "mittwoch": "14:00-18:00",
+      "donnerstag": "08:00-12:00, 14:00-18:00",
+      "freitag": "14:00-18:00"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
       "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
@@ -105,7 +123,13 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "montag": "10:00-16:00",
+      "dienstag": "10:00-16:00",
+      "mittwoch": "10:00-16:00",
+      "donnerstag": "10:00-16:00",
+      "freitag": "10:00-16:00"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Kinder und Jugendliche in Einzeltherapie",
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
@@ -158,7 +182,13 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "montag": "09:30-19:30",
+      "dienstag": "08:00-13:00",
+      "mittwoch": "16:30-19:30",
+      "donnerstag": "08:30-13:30",
+      "freitag": "09:00-14:00"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
       "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
@@ -180,7 +210,12 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "montag": "10:00-19:00",
+      "dienstag": "09:00-17:00",
+      "mittwoch": "09:00-18:00",
+      "freitag": "08:00-13:00"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
       "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
@@ -202,7 +237,12 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "montag": "08:00-15:00",
+      "dienstag": "08:00-16:00",
+      "mittwoch": "10:00-16:00",
+      "donnerstag": "10:00-18:00"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
       "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
@@ -224,7 +264,12 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "montag": "09:00-18:00",
+      "dienstag": "09:00-18:00",
+      "mittwoch": "09:00-18:00",
+      "freitag": "09:00-18:00"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Kinder und Jugendliche in Einzeltherapie",
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
@@ -252,7 +297,12 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "dienstag": "09:00-18:00",
+      "mittwoch": "09:00-18:00",
+      "donnerstag": "09:00-18:00",
+      "freitag": "09:00-18:00"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Kinder und Jugendliche in Einzeltherapie",
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
@@ -308,7 +358,12 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "montag": "09:00-17:00",
+      "dienstag": "09:00-17:00",
+      "mittwoch": "09:00-17:00",
+      "freitag": "09:00-17:00"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
       "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
@@ -330,7 +385,11 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "montag": "10:00-13:00, 15:00-19:00",
+      "donnerstag": "10:00-19:00",
+      "freitag": "10:00-17:00"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
       "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
@@ -353,7 +412,12 @@
       "Neurologie / Psychiatrie",
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "montag": "09:30-13:00, 14:00-17:00",
+      "dienstag": "09:30-13:00, 14:00-17:00",
+      "mittwoch": "09:30-12:00",
+      "donnerstag": "09:30-12:30, 14:00-17:00"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
       "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
@@ -397,7 +461,13 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "montag": "11:00-19:00",
+      "dienstag": "11:00-18:00",
+      "mittwoch": "11:00-19:00",
+      "donnerstag": "11:00-18:00",
+      "freitag": "08:00-14:00"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
       "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
@@ -419,7 +489,13 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "montag": "13:00-18:00",
+      "dienstag": "13:00-18:00",
+      "mittwoch": "12:00-17:00",
+      "donnerstag": "10:00-15:00",
+      "freitag": "10:00-15:00"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Kinder und Jugendliche in Einzeltherapie",
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
@@ -443,7 +519,13 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "montag": "09:00-16:00",
+      "dienstag": "09:00-16:00",
+      "mittwoch": "09:00-16:00",
+      "donnerstag": "09:00-16:00",
+      "freitag": "09:00-16:00"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
       "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
@@ -465,7 +547,13 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "montag": "14:00-19:00",
+      "dienstag": "09:00-18:00",
+      "mittwoch": "09:00-13:00",
+      "donnerstag": "09:00-18:00",
+      "freitag": "09:00-13:00"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
       "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
@@ -487,7 +575,13 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "montag": "08:00-15:00, 15:15-18:00",
+      "dienstag": "08:00-19:00",
+      "mittwoch": "08:15-15:00, 15:00-18:00",
+      "donnerstag": "08:00-15:00",
+      "freitag": "08:00-15:00"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
       "Analytische Psychotherapie für Erwachsene in Gruppentherapie",
@@ -511,7 +605,12 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "montag": "10:00-14:00",
+      "dienstag": "09:00-15:30",
+      "donnerstag": "11:30-15:30",
+      "freitag": "09:00-14:30"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
       "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
@@ -533,7 +632,13 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "montag": "09:00-19:00",
+      "dienstag": "09:00-19:00",
+      "mittwoch": "09:00-19:00",
+      "donnerstag": "10:00-15:00",
+      "freitag": "10:00-18:00"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
       "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
@@ -555,7 +660,12 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "dienstag": "09:00-14:00, 17:00-20:00",
+      "mittwoch": "09:00-14:00, 17:00-20:00",
+      "donnerstag": "09:00-14:00, 17:00-20:00",
+      "freitag": "09:00-14:00"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
       "Analytische Psychotherapie für Erwachsene in Gruppentherapie",
@@ -579,7 +689,13 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "montag": "08:30-13:30, 15:00-18:00",
+      "dienstag": "08:30-12:30, 15:00-18:30",
+      "mittwoch": "08:30-12:30",
+      "donnerstag": "08:30-12:30, 15:30-18:30",
+      "freitag": "09:00-11:00, 14:30-17:30"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
       "Analytische Psychotherapie für Erwachsene in Gruppentherapie",
@@ -603,7 +719,10 @@
     "fachgebiete": [
       "Psychotherapie"
     ],
-    "telefonische_erreichbarkeit": {},
+    "telefonische_erreichbarkeit": {
+      "freitag": "08:00-16:00",
+      "samstag": "08:00-16:00"
+    },
     "psychotherapie": [
       "Analytische Psychotherapie für Erwachsene in Einzeltherapie",
       "Tiefenpsychologisch fundierte Psychotherapie für Erwachsene in Einzeltherapie"
